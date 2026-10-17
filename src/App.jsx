@@ -21,8 +21,8 @@ function SectionHeader({ icon: Icon, title, hint, action }) {
   return (
     <div className="mb-5 flex items-end justify-between gap-4">
       <div>
-        <h2 className="flex items-center gap-2 text-lg font-bold tracking-tight text-white">
-          <Icon className="h-4 w-4 text-teal-400" />
+        <h2 className="flex items-center gap-2 text-lg font-bold tracking-tight text-slate-900">
+          <Icon className="h-4 w-4 text-teal-600" />
           {title}
         </h2>
         {hint ? <p className="mt-1 text-xs text-slate-500">{hint}</p> : null}
@@ -117,17 +117,17 @@ export default function App() {
             className="glass-card w-full p-8"
           >
             <div className="mb-4 flex items-center gap-3">
-              <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-amber-400/25 bg-amber-400/10">
-                <AlertTriangle className="h-5 w-5 text-amber-300" />
+              <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-amber-200 bg-amber-50">
+                <AlertTriangle className="h-5 w-5 text-amber-500" />
               </div>
               <div>
-                <div className="font-bold text-white">Data not available yet</div>
+                <div className="font-bold text-slate-900">Data not available yet</div>
                 <div className="text-xs text-slate-500">Error: {error}</div>
               </div>
             </div>
-            <p className="mb-6 text-sm leading-relaxed text-slate-400">
+            <p className="mb-6 text-sm leading-relaxed text-slate-500">
               The dashboard reads{' '}
-              <span className="font-mono text-teal-400">
+              <span className="font-mono text-teal-700">
                 tagged/summary_sword-saint69.json
               </span>
               . Make sure GitHub Pages is enabled (Settings → Pages → Source:
@@ -158,9 +158,9 @@ export default function App() {
       <main className="mx-auto max-w-6xl px-4 pb-10 pt-8 sm:px-6">
         <div className="mb-6 flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
           <div>
-            <h1 className="text-2xl font-bold tracking-tight text-white md:text-3xl">
+            <h1 className="text-xl font-bold tracking-tight text-slate-900 sm:text-2xl md:text-3xl">
               VPN Auto Check{' '}
-              <span className="font-medium text-slate-600">· sword-saint69</span>
+              <span className="font-medium text-slate-400">· sword-saint69</span>
             </h1>
             <p className="mt-1 text-sm text-slate-500">
               Pulled, sorted, deduped and liveness-checked every hour via GitHub
@@ -182,6 +182,7 @@ export default function App() {
           given={pull?.links_given ?? 0}
           countries={pull?.by_country ? Object.keys(pull.by_country).length : 0}
           updated={updated}
+          updatedIso={summary.generated_at}
         />
 
         <div className="mt-6">

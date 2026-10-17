@@ -19,35 +19,35 @@ export default function ProtocolTable({ summary }) {
   const max = Math.max(1, ...rows.map((r) => r.alive + r.dead))
 
   return (
-    <div className="glass-card divide-y divide-white/5">
+    <div className="glass-card divide-y divide-slate-100">
       {rows.map((r, i) => {
         const total = r.alive + r.dead
         const trackPct = (total / max) * 100
         const aliveShare = total ? (r.alive / total) * 100 : 0
         return (
-          <div key={r.proto} className="px-5 py-4">
-            <div className="mb-2 flex items-center justify-between gap-4">
+          <div key={r.proto} className="px-4 py-3.5 sm:px-5 sm:py-4">
+            <div className="mb-2 flex flex-wrap items-center justify-between gap-x-4 gap-y-1.5">
               <div className="flex items-center gap-2.5">
-                <span className="pill border border-teal-400/20 bg-teal-400/10 font-mono text-teal-300">
+                <span className="pill border border-teal-200 bg-teal-50 font-mono text-teal-700">
                   {r.proto === '?' ? 'other' : r.proto}
                 </span>
-                <span className="text-xs text-slate-500">
+                <span className="text-xs text-slate-400">
                   {total.toLocaleString()} total
                 </span>
               </div>
               <div className="flex items-center gap-4 text-xs tnum">
-                <span className="text-teal-300">
+                <span className="text-teal-700">
                   {r.alive.toLocaleString()}{' '}
-                  <span className="text-slate-600">alive</span>
+                  <span className="text-slate-400">alive</span>
                 </span>
-                <span className={r.dead ? 'text-rose-400' : 'text-slate-600'}>
+                <span className={r.dead ? 'text-rose-500' : 'text-slate-300'}>
                   {r.dead.toLocaleString()}{' '}
-                  <span className="text-slate-600">dead</span>
+                  <span className="text-slate-400">dead</span>
                 </span>
               </div>
             </div>
 
-            <div className="relative h-2 w-full overflow-hidden rounded-full bg-white/5">
+            <div className="relative h-2 w-full overflow-hidden rounded-full bg-slate-100">
               <motion.div
                 className="absolute inset-y-0 left-0 flex overflow-hidden rounded-full"
                 initial={{ width: 0 }}
@@ -59,11 +59,11 @@ export default function ProtocolTable({ summary }) {
                 }}
               >
                 <div
-                  className="h-full bg-gradient-to-r from-teal-500 to-cyan-400"
+                  className="h-full bg-gradient-to-r from-teal-500 to-cyan-500"
                   style={{ width: `${aliveShare}%` }}
                 />
                 <div
-                  className="h-full bg-rose-500/50"
+                  className="h-full bg-rose-300"
                   style={{ width: `${100 - aliveShare}%` }}
                 />
               </motion.div>

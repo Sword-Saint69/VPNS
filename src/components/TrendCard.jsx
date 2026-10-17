@@ -37,27 +37,27 @@ export default function TrendCard({ history }) {
 
   const DeltaIcon = delta > 0 ? TrendingUp : delta < 0 ? TrendingDown : Minus
   const deltaTone =
-    delta > 0 ? 'text-teal-300' : delta < 0 ? 'text-rose-400' : 'text-slate-500'
+    delta > 0 ? 'text-teal-600' : delta < 0 ? 'text-rose-500' : 'text-slate-400'
 
   return (
-    <div className="glass-card p-6">
-      <div className="mb-4 flex flex-wrap items-end justify-between gap-4">
+    <div className="glass-card p-5 sm:p-6">
+      <div className="mb-4 flex flex-wrap items-end justify-between gap-x-6 gap-y-2">
         <div>
           <div className="text-[11px] font-medium uppercase tracking-wider text-slate-500">
             Alive trend · last {pts.length} check{pts.length === 1 ? '' : 's'}
           </div>
           {latest ? (
-            <div className="mt-1 flex items-baseline gap-3">
+            <div className="mt-1 flex flex-wrap items-baseline gap-x-3 gap-y-1">
               <CountUp
                 value={latest.alive}
-                className="text-2xl font-bold text-white"
+                className="text-2xl font-bold text-slate-900"
               />
               {prev ? (
                 <span className={`flex items-center gap-1 text-xs font-medium ${deltaTone}`}>
                   <DeltaIcon className="h-3.5 w-3.5" />
                   {delta > 0 ? '+' : ''}
                   {delta.toLocaleString()} alive
-                  <span className="text-slate-600">
+                  <span className="text-slate-400">
                     ({deltaRate > 0 ? '+' : ''}
                     {deltaRate.toFixed(2)}% rate)
                   </span>
@@ -70,22 +70,26 @@ export default function TrendCard({ history }) {
             </div>
           )}
         </div>
-        <div className="font-mono text-[10px] text-slate-600">
+        <div className="hidden font-mono text-[10px] text-slate-400 sm:block">
           {pts.length > 1 && latest
             ? `${new Date(pts[0].t).toLocaleString()} → ${new Date(latest.t).toLocaleString()}`
             : ''}
         </div>
       </div>
 
-      <svg viewBox={`0 0 ${W} ${H}`} className="h-36 w-full" preserveAspectRatio="none">
+      <svg
+        viewBox={`0 0 ${W} ${H}`}
+        className="h-28 w-full sm:h-36"
+        preserveAspectRatio="none"
+      >
         <defs>
           <linearGradient id="trend-fill" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stopColor="#66fcf1" stopOpacity="0.28" />
-            <stop offset="100%" stopColor="#66fcf1" stopOpacity="0" />
+            <stop offset="0%" stopColor="#14b8a6" stopOpacity="0.2" />
+            <stop offset="100%" stopColor="#14b8a6" stopOpacity="0" />
           </linearGradient>
           <linearGradient id="trend-stroke" x1="0" y1="0" x2="1" y2="0">
-            <stop offset="0%" stopColor="#45a29e" />
-            <stop offset="100%" stopColor="#66fcf1" />
+            <stop offset="0%" stopColor="#0d9488" />
+            <stop offset="100%" stopColor="#06b6d4" />
           </linearGradient>
         </defs>
 
@@ -97,7 +101,7 @@ export default function TrendCard({ history }) {
             x2={W - PAD}
             y1={PAD + f * (H - PAD * 2)}
             y2={PAD + f * (H - PAD * 2)}
-            stroke="rgba(255,255,255,0.05)"
+            stroke="rgba(15,23,42,0.07)"
             strokeWidth="1"
           />
         ))}
@@ -126,7 +130,7 @@ export default function TrendCard({ history }) {
               cx={x(pts.length - 1)}
               cy={y(latest.alive)}
               r="4"
-              fill="#66fcf1"
+              fill="#0d9488"
               initial={{ scale: 0 }}
               animate={{ scale: 1 }}
               transition={{ delay: 1.1, type: 'spring', stiffness: 300 }}
@@ -137,7 +141,7 @@ export default function TrendCard({ history }) {
             cx={W / 2}
             cy={H / 2}
             r="5"
-            fill="#66fcf1"
+            fill="#14b8a6"
             initial={{ scale: 0, opacity: 0 }}
             animate={{ scale: [0.6, 1, 0.6], opacity: [0.4, 1, 0.4] }}
             transition={{ duration: 2.4, repeat: Infinity, ease: 'easeInOut' }}
@@ -146,7 +150,7 @@ export default function TrendCard({ history }) {
       </svg>
 
       {pts.length > 1 ? (
-        <div className="mt-2 flex justify-between font-mono text-[10px] text-slate-600">
+        <div className="mt-2 flex justify-between font-mono text-[10px] text-slate-400">
           <span>min {min.toLocaleString()}</span>
           <span>max {max.toLocaleString()}</span>
         </div>
