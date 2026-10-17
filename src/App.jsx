@@ -1,64 +1,134 @@
-import { useState, useEffect } from 'react'
+import { useCallback, useEffect, useState } from 'react'
+import { motion } from 'framer-motion'
+import { Activity, AlertTriangle, HeartPulse, RefreshCw } from 'lucide-react'
+import Background from './components/Background'
+import Navbar from './components/Navbar'
+import LoaderOrb from './components/LoaderOrb'
 import StatsGrid from './components/StatsGrid'
 import ProtocolTable from './components/ProtocolTable'
 import AliveList from './components/AliveList'
+import Footer from './components/Footer'
 
-const SUMMARY_URL =
-  import.meta.env.BASE_URL + 'tagged/summary_sword-saint69.json'
-const ALIVE_URL = import.meta.env.BASE_URL + 'tagged/alive_sword-saint69.txt'
+const BASE = import.meta.env.BASE_URL
+const SUMMARY_URL = BASE + 'tagged/summary_sword-saint69.json'
+const PULL_URL = BASE + 'tagged/pull_summary_sword-saint69.json'
+const ALIVE_URL = BASE + 'tagged/alive_sword-saint69.txt'
+const SAMPLE = 20
 
-function App() {
+function SectionHeader({ icon: Icon, title, hint, action }) {
+  return (
+    <div className="mb-5 flex items-end justify-between gap-4">
+      <div>
+        <h2 className="flex items-center gap-2 text-lg font-bold tracking-tight text-white">
+          <Icon className="h-4 w-4 text-teal-400" />
+          {title}
+        </h2>
+        {hint ? <p className="mt-1 text-xs text-slate-500">{hint}</p> : null}
+      </div>
+      {action}
+    </div>
+  )
+}
+
+export default function App() {
   const [summary, setSummary] = useState(null)
+  const [pull, setPull] = useState(null)
   const [aliveLines, setAliveLines] = useState([])
   const [loading, setLoading] = useState(true)
+  const [refreshing, setRefreshing] = useState(false)
   const [error, setError] = useState(null)
+
+  const load = useCallback(async () => {
+    try {
+      const stamp = '?t=' + Date.now()
+      const [sRes, pRes, aRes] = await Promise.all([
+        fetch(SUMMARY_URL + stamp, { cache: 'no-store' }),
+        fetch(PULL_URL + stamp, { cache: 'no-store' }).catch(() => null),
+        fetch(ALIVE_URL + stamp, { cache: 'no-store' }),
+      ])
+      if (!sRes.ok)
+        throw new Error(`summary_sword-saint69.json not found (HTTP ${sRes.status})`)
+      const s = await sRes.json()
+      setSummary(s)
+      setError(null)
+      if (pRes && pRes.ok) {
+        try {
+          setPull(await pRes.json())
+        } catch {
+          setPull(null)
+        }
+      }
+      if (aRes.ok) {
+        const text = await aRes.text()
+        setAliveLines(text.split('\n').filter(Boolean).slice(0, SAMPLE))
+      }
+    } catch (e) {
+      setError(e.message)
+    }
+  }, [])
 
   useEffect(() => {
     let cancelled = false
-    const load = async () => {
-      setLoading(true)
-      try {
-        const [sRes, aRes] = await Promise.all([
-          fetch(SUMMARY_URL + '?t=' + Date.now(), { cache: 'no-store' }),
-          fetch(ALIVE_URL + '?t=' + Date.now(), { cache: 'no-store' }),
-        ])
-        if (!sRes.ok) throw new Error('summary.json not found')
-        const s = await sRes.json()
-        if (!cancelled) setSummary(s)
-        if (aRes.ok) {
-          const text = await aRes.text()
-          if (!cancelled)
-            setAliveLines(text.split('\n').filter(Boolean).slice(0, 12))
-        }
-      } catch (e) {
-        if (!cancelled) setError(e.message)
-      } finally {
-        if (!cancelled) setLoading(false)
-      }
-    }
-    load()
+    load().finally(() => {
+      if (!cancelled) setLoading(false)
+    })
     return () => {
       cancelled = true
     }
-  }, [SUMMARY_URL, ALIVE_URL])
+  }, [load])
+
+  const onRefresh = async () => {
+    setRefreshing(true)
+    await load()
+    setRefreshing(false)
+  }
 
   if (loading) {
     return (
-      <div className="card">
-        <span className="spinner" />Loading dashboard…
-      </div>
+      <>
+        <Background />
+        <Navbar />
+        <LoaderOrb />
+      </>
     )
   }
 
   if (error) {
     return (
-      <div className="card">
-        <div className="bad">Error loading data: {error}</div>
-        <div className="muted">
-          Make sure GitHub Pages is enabled and the Action has run at least
-          once so tagged/summary_sword-saint69.json exists.
+      <>
+        <Background />
+        <Navbar />
+        <div className="mx-auto flex min-h-[70vh] max-w-2xl items-center px-4">
+          <motion.div
+            initial={{ opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="glass-card w-full p-8"
+          >
+            <div className="mb-4 flex items-center gap-3">
+              <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-amber-400/25 bg-amber-400/10">
+                <AlertTriangle className="h-5 w-5 text-amber-300" />
+              </div>
+              <div>
+                <div className="font-bold text-white">Data not available yet</div>
+                <div className="text-xs text-slate-500">Error: {error}</div>
+              </div>
+            </div>
+            <p className="mb-6 text-sm leading-relaxed text-slate-400">
+              The dashboard reads{' '}
+              <span className="font-mono text-teal-400">
+                tagged/summary_sword-saint69.json
+              </span>
+              . Make sure GitHub Pages is enabled (Settings → Pages → Source:
+              GitHub Actions) and the workflow has run at least once so the
+              tagged files exist.
+            </p>
+            <button onClick={onRefresh} className="btn-primary">
+              <RefreshCw className={`h-4 w-4 ${refreshing ? 'animate-spin' : ''}`} />
+              Retry
+            </button>
+          </motion.div>
         </div>
-      </div>
+      </>
     )
   }
 
@@ -66,62 +136,74 @@ function App() {
   const d = summary.dead ?? 0
   const t = summary.total ?? 0
   const rate = summary.alive_rate ?? 0
-  const updated = new Date(summary.generated_at || new Date()).toLocaleString()
+  const updated = new Date(summary.generated_at || Date.now()).toLocaleString()
 
   return (
-    <div>
-      <h1>
-        VPN Auto Check <span className="muted">· sword-saint69</span>
-      </h1>
-      <div className="sub">
-        Auto-refreshed every hour via GitHub Actions · last pull &amp; liveness
-        check
-      </div>
+    <>
+      <Background />
+      <Navbar generatedAt={summary.generated_at} />
 
-      <StatsGrid
-        total={t}
-        alive={a}
-        dead={d}
-        rate={rate}
-        fetched={summary.fetched_ok ?? 0}
-        given={summary.links_given ?? 0}
-        updated={updated}
-      />
+      <main className="mx-auto max-w-6xl px-4 pb-10 pt-8 sm:px-6">
+        <div className="mb-6 flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
+          <div>
+            <h1 className="text-2xl font-bold tracking-tight text-white md:text-3xl">
+              VPN Auto Check{' '}
+              <span className="font-medium text-slate-600">· sword-saint69</span>
+            </h1>
+            <p className="mt-1 text-sm text-slate-500">
+              Pulled, sorted, deduped and liveness-checked every hour via GitHub
+              Actions.
+            </p>
+          </div>
+          <button onClick={onRefresh} className="btn-ghost self-start sm:self-auto">
+            <RefreshCw className={`h-4 w-4 ${refreshing ? 'animate-spin' : ''}`} />
+            {refreshing ? 'Refreshing…' : 'Refresh'}
+          </button>
+        </div>
 
-      <div className="links">
-        <a href={ALIVE_URL} target="_blank" rel="noopener noreferrer">
-          View alive list
-        </a>
-        <a
-          href={import.meta.env.BASE_URL + 'tagged/dead_sword-saint69.txt'}
-          target="_blank"
-          rel="noopener noreferrer"
+        <StatsGrid
+          total={t}
+          alive={a}
+          dead={d}
+          rate={rate}
+          fetched={pull?.fetched_ok ?? 0}
+          given={pull?.links_given ?? 0}
+          countries={pull?.by_country ? Object.keys(pull.by_country).length : 0}
+          updated={updated}
+        />
+
+        <motion.section
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: '-60px' }}
+          transition={{ duration: 0.5, ease: 'easeOut' }}
+          className="mt-12"
         >
-          View dead list
-        </a>
-        <a
-          href={
-            import.meta.env.BASE_URL + 'tagged/summary_sword-saint69.json'
-          }
-          target="_blank"
-          rel="noopener noreferrer"
+          <SectionHeader
+            icon={Activity}
+            title="By protocol"
+            hint="Bar length = volume · teal = alive · red = dead"
+          />
+          <ProtocolTable summary={summary} />
+        </motion.section>
+
+        <motion.section
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: '-60px' }}
+          transition={{ duration: 0.5, ease: 'easeOut' }}
+          className="mt-12"
         >
-          View JSON
-        </a>
-      </div>
+          <SectionHeader
+            icon={HeartPulse}
+            title="Alive sample"
+            hint="First rows of alive_sword-saint69.txt — hover to copy a full proxy URI"
+          />
+          <AliveList lines={aliveLines} totalAlive={a} />
+        </motion.section>
 
-      <h2 className="section">Alive proxies (sample)</h2>
-      <AliveList lines={aliveLines} totalAlive={a} />
-
-      <h2 className="section">By protocol (alive / dead)</h2>
-      <ProtocolTable summary={summary} />
-
-      <p className="note">
-        Source: tagged/summary_sword-saint69.json and tagged/alive_sword-saint69.txt
-        generated by the GitHub Action. Open the repo to view raw files.
-      </p>
-    </div>
+        <Footer base={BASE} />
+      </main>
+    </>
   )
 }
-
-export default App

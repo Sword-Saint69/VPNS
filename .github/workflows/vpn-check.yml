@@ -71,7 +71,7 @@ jobs:
         run: |
           git config user.name "sword-saint69"
           git config user.email "sword-saint69@users.noreply.github.com"
-          git add vpn_sorted vpn_checked tagged index.html README.md revived package.json vite.config.js src
+          git add vpn_sorted vpn_checked tagged index.html README.md revived package.json package-lock.json vite.config.js tailwind.config.js postcss.config.cjs src
           git commit -m "auto: refresh vpn check results $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes to commit"
           git push
 
