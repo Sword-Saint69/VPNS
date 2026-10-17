@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime05.workers.dev&encryption=none#Sword-saint69
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?security=none&type=ws&path=/&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#Sword-saint69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?security=none&type=ws&path=/&host=vms.lifetime04.workers.dev&packetEncoding=xudp#Sword-saint69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?type=ws&host=vms.lifetime04.workers.dev#Sword-saint69

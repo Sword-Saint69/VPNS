@@ -1,12 +1,5 @@
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1#Sword-saint69
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=194.87.118.184#Sword-saint69
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=off#Sword-saint69
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?security=tls&sni=match-stream.lovkisport.blog&alpn=h3&insecure=0#Sword-saint69
 hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#Sword-saint69
-trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#Sword-saint69
-trojan://bpb-trojan@172.64.80.1:443?security=tls&sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&Host=vless.herogoing.top#Sword-saint69
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@194.58.109.206:8443?security=tls&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net&fp=chrome#Sword-saint69
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@194.58.109.206:8443?security=tls&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net&fp=firefox#Sword-saint69
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@194.58.109.206:8443?security=tls&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net&fp=qq#Sword-saint69
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@194.58.109.206:8443?sni=cf3.schzyc.cc.cd&type=ws&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.netfp%3Dchrome&security=tls&fp=edge#Sword-saint69
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@194.58.109.206:8443?sni=cf3.schzyc.cc.cd&type=ws&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.netfp%3Dchrome&security=tls&fp=safari#Sword-saint69
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
