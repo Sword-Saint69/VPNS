@@ -51,6 +51,10 @@ jobs:
           cp revived/failed.json        tagged/failed_sword-saint69.json
           ls -la tagged
 
+      - name: Generate Clash Verge / mihomo profiles
+        run: |
+          python3 vpn_to_clash.py tagged/alive_sword-saint69.txt --out tagged --tag Sword-saint69 --lite 500
+
       - name: Append history snapshot (7 days, deduped per run timestamp)
         run: |
           python3 - <<'EOF'

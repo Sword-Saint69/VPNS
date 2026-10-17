@@ -1,4 +1,4 @@
-import { FileJson, HeartPulse, Skull } from 'lucide-react'
+import { FileJson, HeartPulse, Network, Skull, Zap } from 'lucide-react'
 
 const REPO = 'https://github.com/Sword-Saint69/VPNS'
 
@@ -7,6 +7,8 @@ export default function Footer({ base }) {
     { href: `${base}tagged/alive_sword-saint69.txt`, label: 'alive list', icon: HeartPulse },
     { href: `${base}tagged/dead_sword-saint69.txt`, label: 'dead list', icon: Skull },
     { href: `${base}tagged/summary_sword-saint69.json`, label: 'summary json', icon: FileJson },
+    { href: `${base}tagged/clash_verge_sword-saint69.yaml`, label: 'clash yaml', icon: Network },
+    { href: `${base}tagged/clash_verge_lite_sword-saint69.yaml`, label: 'clash lite', icon: Zap },
   ]
   return (
     <footer className="mt-12 border-t border-slate-200 pt-8 pb-4 sm:mt-16">

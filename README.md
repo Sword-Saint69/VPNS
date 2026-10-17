@@ -34,6 +34,24 @@ All result files carry the username: `summary_sword-saint69.json`,
 `alive_sword-saint69.txt`, `dead_sword-saint69.txt`,
 `pull_summary_sword-saint69.json`, `history_sword-saint69.json`.
 
+## Clash Verge / mihomo profiles
+Every hourly run converts the alive list into ready-to-import Clash Verge
+profiles (mihomo syntax, config-tested with `mihomo -t`):
+
+- `tagged/clash_verge_sword-saint69.yaml` — full pool (~10k nodes)
+- `tagged/clash_verge_lite_sword-saint69.yaml` — 500 evenly-sampled nodes
+
+Both carry `select` / `url-test` (Auto) / `fallback` groups, per-protocol
+groups, LAN-direct rules and a `MATCH` catch-all. Import: **Clash Verge →
+Profiles → ➕ → Import from URL**, then paste:
+
+```
+https://raw.githubusercontent.com/Sword-Saint69/VPNS/main/tagged/clash_verge_lite_sword-saint69.yaml
+```
+
+`python3 vpn_to_clash.py tagged/alive_sword-saint69.txt --out tagged --tag Sword-saint69 --lite 500`
+regenerates them by hand.
+
 ## GitHub Pages
 Deployment is **GitHub Actions** based (Settings → Pages → Source:
 GitHub Actions). The workflow builds the dashboard, uploads `dist/` and
