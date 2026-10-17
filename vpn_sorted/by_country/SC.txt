@@ -1,5 +1,7 @@
 trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@studio.10media.top:443?security=tls&sni=studio.10media.top&fp=&type=grpc&serviceName=studiofeed&packetEncoding=xudp&encryption=none#Sword-saint69
+trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#Sword-saint69
+vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@45.12.63.165:8443?path=%2Fxhttp&pbk=LP7yXSC50lHfxW-BuRQ3OLDBNncF2KVnMgVJuX9XR2w&security=reality&sid=35cd2022241da999&sni=cdn-de.cahmes.space&type=xhttp&fp=chrome#Sword-saint69
+vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@de-03.avroraservice.online:8443?encryption=none&mode=stream-one&path=%2Fxhttp&pbk=LP7yXSC50lHfxW-BuRQ3OLDBNncF2KVnMgVJuX9XR2w&security=reality&sid=35cd2022241da999&sni=cdn-de.cahmes.space&type=xhttp&fp=firefox#Sword-saint69
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#Sword-saint69
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Sword-saint69
 vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjE4NSIsImFpZCI6NjQsImhvc3QiOiJ3d3cuMTU2OTcwNjUueHl6IiwiaWQiOiIwNzhlYjI0ZC04ZDFkLTRmYmQtYjkxNC1lZTU4YTg5N2EzNWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNzA0MzYzMTgyNDkzIiwicG9ydCI6MzEwMDAsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=#Sword-saint69

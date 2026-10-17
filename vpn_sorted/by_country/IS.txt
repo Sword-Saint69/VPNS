@@ -1,1 +1,1 @@
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.230.64:57443?encryption=none&fp=firefox&pbk=SPX2Uhw5AAifbNUjZf2zwpfvDUlUw3C7waDNMO48lSE&security=reality&serviceName=grpc&sni=media.polina.lol&type=grpc#Sword-saint69
+ss://YWVzLTEyOC1nY206NDk5ZWIxMzEtZjJiOC00NmI1LThmZDAtMTA4YzM3NWVkNTI1@ruot.ayucloudservices.nl:35196#Sword-saint69
