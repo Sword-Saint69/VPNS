@@ -29,7 +29,7 @@ export default function ProtocolTable({ summary }) {
             <div className="mb-2 flex items-center justify-between gap-4">
               <div className="flex items-center gap-2.5">
                 <span className="pill border border-teal-400/20 bg-teal-400/10 font-mono text-teal-300">
-                  {r.proto}
+                  {r.proto === '?' ? 'other' : r.proto}
                 </span>
                 <span className="text-xs text-slate-500">
                   {total.toLocaleString()} total

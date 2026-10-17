@@ -2,8 +2,8 @@ name: VPN Auto Check
 
 on:
   schedule:
-    # run every 1 hour
-    - cron: '0 * * * *'
+    # hourly, off the :00 contention (GitHub drops schedule events at peak minutes)
+    - cron: '17 * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -50,6 +50,42 @@ jobs:
           cp vpn_sorted/summary.json    tagged/pull_summary_sword-saint69.json
           cp revived/failed.json        tagged/failed_sword-saint69.json
           ls -la tagged
+
+      - name: Append history snapshot (7 days, deduped per run timestamp)
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          hist_path = 'tagged/history_sword-saint69.json'
+          entry = None
+          try:
+              with open('vpn_checked/summary.json') as f:
+                  s = json.load(f)
+              entry = {
+                  't': s['generated_at'],
+                  'alive': s['alive'],
+                  'dead': s['dead'],
+                  'total': s['total'],
+                  'rate': s['alive_rate'],
+              }
+          except Exception as e:
+              print('history: no summary:', e)
+          hist = []
+          if os.path.exists(hist_path):
+              try:
+                  with open(hist_path) as f:
+                      hist = json.load(f)
+                  if not isinstance(hist, list):
+                      hist = []
+              except Exception:
+                  hist = []
+          if entry:
+              hist = [h for h in hist if h.get('t') != entry['t']]
+              hist.append(entry)
+          hist = hist[-168:]
+          with open(hist_path, 'w') as f:
+              json.dump(hist, f, indent=1)
+          print('history entries:', len(hist))
+          EOF
 
       - name: Set up Node
         uses: actions/setup-node@v4

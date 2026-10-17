@@ -7,13 +7,15 @@ import LoaderOrb from './components/LoaderOrb'
 import StatsGrid from './components/StatsGrid'
 import ProtocolTable from './components/ProtocolTable'
 import AliveList from './components/AliveList'
+import TrendCard from './components/TrendCard'
 import Footer from './components/Footer'
 
 const BASE = import.meta.env.BASE_URL
 const SUMMARY_URL = BASE + 'tagged/summary_sword-saint69.json'
 const PULL_URL = BASE + 'tagged/pull_summary_sword-saint69.json'
 const ALIVE_URL = BASE + 'tagged/alive_sword-saint69.txt'
-const SAMPLE = 20
+const HISTORY_URL = BASE + 'tagged/history_sword-saint69.json'
+const SAMPLE = 60
 
 function SectionHeader({ icon: Icon, title, hint, action }) {
   return (
@@ -33,6 +35,7 @@ function SectionHeader({ icon: Icon, title, hint, action }) {
 export default function App() {
   const [summary, setSummary] = useState(null)
   const [pull, setPull] = useState(null)
+  const [history, setHistory] = useState([])
   const [aliveLines, setAliveLines] = useState([])
   const [loading, setLoading] = useState(true)
   const [refreshing, setRefreshing] = useState(false)
@@ -41,10 +44,11 @@ export default function App() {
   const load = useCallback(async () => {
     try {
       const stamp = '?t=' + Date.now()
-      const [sRes, pRes, aRes] = await Promise.all([
+      const [sRes, pRes, aRes, hRes] = await Promise.all([
         fetch(SUMMARY_URL + stamp, { cache: 'no-store' }),
         fetch(PULL_URL + stamp, { cache: 'no-store' }).catch(() => null),
         fetch(ALIVE_URL + stamp, { cache: 'no-store' }),
+        fetch(HISTORY_URL + stamp, { cache: 'no-store' }).catch(() => null),
       ])
       if (!sRes.ok)
         throw new Error(`summary_sword-saint69.json not found (HTTP ${sRes.status})`)
@@ -56,6 +60,14 @@ export default function App() {
           setPull(await pRes.json())
         } catch {
           setPull(null)
+        }
+      }
+      if (hRes && hRes.ok) {
+        try {
+          const h = await hRes.json()
+          setHistory(Array.isArray(h) ? h : [])
+        } catch {
+          setHistory([])
         }
       }
       if (aRes.ok) {
@@ -171,6 +183,10 @@ export default function App() {
           countries={pull?.by_country ? Object.keys(pull.by_country).length : 0}
           updated={updated}
         />
+
+        <div className="mt-6">
+          <TrendCard history={history} />
+        </div>
 
         <motion.section
           initial={{ opacity: 0, y: 20 }}
