@@ -1,1 +1,2 @@
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#Sword-saint69
+vmess://eyJhZGQiOiI0NS4xMi4xNDQuNjgiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwicG9ydCI6NDQzLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9#Sword-saint69
