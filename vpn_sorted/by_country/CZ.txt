@@ -1,5 +1,9 @@
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#Sword-saint69
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001 #Sword-saint69
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#Sword-saint69
+trojan://humanity@31.77.126.2:443?allowInsecure=0&sni=www.volumeroot.com&alpn=h3%2Ch2%2Chttp/1.1&type=ws&host=www.volumeroot.com&path=/assignment#Sword-saint69
+trojan://humanity@31.77.126.2:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fassignment&host=www.pleadcourt.org#Sword-saint69
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&sni=gateway.icloud.com&sid=23d0950d60bc0d5b #Sword-saint69
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?flow=xtls-rprx-vision&fp=chrome&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#Sword-saint69
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#Sword-saint69
 vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=udemy.com&fp=ios&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&path=/#Sword-saint69
@@ -9,9 +13,8 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?alpn=http/1.1&encry
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&fp=chrome&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132&security=tls&sni=lucasjow.us.ci&type=ws#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=unsafe&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&security=tls&sni=lucasjow.us.ci&type=ws&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#Sword-saint69
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&sni=lucasjow.us.ci&type=ws#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#Sword-saint69
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=unsafe&type=ws&allowInsecure=0&sni=lucasjow.us.ci#Sword-saint69
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?security=tls&type=ws&sni=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&flow=&pbk=&sid=#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?type=ws&security=tls&fp=chrome&sni=lucasjow.us.ci#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjE5NS44NS4yMy4yMjUiLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjE5NS44NS4yMy4yMjUiLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYWNrZXRFbmNvZGluZyI6Inh1ZHAiLCJhbHBuIjoiIiwiZnAiOiIifQ==#Sword-saint69

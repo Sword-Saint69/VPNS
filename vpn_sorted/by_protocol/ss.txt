@@ -66,7 +66,7 @@ ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.80.111.60:443?path=%2Frdfgtws&secur
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Sword-saint69
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#Sword-saint69
 ss://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=%2F&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#Sword-saint69
-ss://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&amp;type=ws&amp;path=%2Fvless%2F&amp;security=none#Sword-saint69
+ss://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#Sword-saint69
 ss://185e2bb3-2934-48d0-bbd5-dd20d16e83ee@93.89.220.37:443?security=reality&amp;encryption=none&amp;pbk=lwKaUQ81wJUJRsqAPsfTPj5V_f9N50UYEwzRI_nuq2g&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ibm.com&amp;sid=e88cb983f3c97528#Sword-saint69
 ss://186a7d6f-e360-4c5f-bafb-a816f79e231b@83.217.195.128:443?security=reality&amp;encryption=none&amp;pbk=RlmSSm1cMoLgu1Cc5zW_g42oMy-r1HHtxNwnw-kbQSY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nl7.ngenix-cdn-cache.site&amp;sid=a912f2bba75c4ffd#Sword-saint69
 ss://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#Sword-saint69
@@ -455,6 +455,8 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dnhBUUR1anU0c2FXWDB3ZGF3Y0UxMG5RMDB
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dzJVZ1hhWjNpT3JMbUFOQlFzaXBJeUZIYklsaHlubko2czZUSXF1WC9Zcz0@130.61.231.252:59924#Sword-saint69
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6empiY2dNUEQzV0U1ZjBZSVNaMHQ3aHh3RHJKVnNsVjJoRUlRdTF6ZmNhTT0@134.98.147.49:45819#Sword-saint69
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M1VlYlltOEhXOERVN2lNczFPMHBldz09@47.80.24.245:8127#Sword-saint69
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OkRldU8zRXNYTmtkVWlWVkNTOG5VMlE9PQ%3D%3D@95.38.68.152:2089#Sword-saint69
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OkRldU8zRXNYTmtkVWlWVkNTOG5VMlE9PQ%3D%3D@n2.rehan-iogsar.ir:4680#Sword-saint69
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OkRldU8zRXNYTmtkVWlWVkNTOG5VMlE9PQ==@95.38.68.152:2089#Sword-saint69
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OkRldU8zRXNYTmtkVWlWVkNTOG5VMlE9PQ==@n2.rehan-iogsar.ir:4680#Sword-saint69
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ==@95.38.68.148:2089#Sword-saint69
@@ -576,9 +578,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY=@95.169.3.45:46006#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY=@95.169.3.45:46007#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY=@95.169.3.45:46008#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY=@95.169.3.45:46009#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY=@95.169.3.45:46010#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY=@95.169.3.45:46013#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY@95.169.3.45:46005#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY@95.169.3.45:46007#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY@95.169.3.45:46009#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY@95.169.3.45:46010#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@jp01.network-cdn-gw-yd.net:48801#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@jp3.network-cdn-gw-yd.net:48803#Sword-saint69
@@ -818,6 +822,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWUo1SVMyb1NBczkza0dU@4.231.225.39:443#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYVU1dXZhUlpoZno@167.86.95.192:8560#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443?headerType=none&amp;type=tcp#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbFNZK0QrdHR4cDhPTTh0WENDc1duS2gzRWg2S2w0ckFBdjNuRTBYMDhRPQ@e3.cover20.ir:56985#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZW9xOHVqZmtxWktLdkFDUWhvcUJRMVBBM3VxNDI0Mg==@45.149.114.171:777#Sword-saint69
@@ -951,6 +956,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#Swor
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppekkwS2NMUkVHMF9tWHR5WVNGcF8zN1hTTzdLb0R2Rg@mojif.fusetea.ir:2089#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqM1BLT0NqN3dIbDVQazZ0aEk5SHlYdENhNkpVMTgwSWxCcFdBTmdGamtZPQ@130.49.189.158:43558#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqM1BLT0NqN3dIbDVQazZ0aEk5SHlYdENhNkpVMTgwSWxCcFdBTmdGamtZPQ@130.49.189.158:43558?#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqM1BLT0NqN3dIbDVQazZ0aEk5SHlYdENhNkpVMTgwSWxCcFdBTmdGamtZPUAxMzAuNDkuMTg5LjE1ODo0MzU1OA==#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#Sword-saint69
@@ -1211,6 +1217,7 @@ ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#Sword-saint69
 ss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@173.212.251.231:51058#Sword-saint69
 ss://YWVzLTEyOC1nY206YjZhZjRiY2U1NDU5YzQxMmEwZDZkY2RkNjkyMTI1OWI=@95.141.37.24:18172#Sword-saint69
 ss://YWVzLTEyOC1nY206YjZhZjRiY2U1NDU5YzQxMmEwZDZkY2RkNjkyMTI1OWI@95.141.37.24:18172#Sword-saint69
+ss://YWVzLTEyOC1nY206YjZhZjRiY2U1NDU5YzQxMmEwZDZkY2RkNjkyMTI1OWJAOTUuMTQxLjM3LjI0OjE4MTcy#Sword-saint69
 ss://YWVzLTEyOC1nY206YktnRU5kQWxAOFp4M2xBYy1ISy1CRC0yMDI2MDYyMg==@154.86.30.45:24443#Sword-saint69
 ss://YWVzLTEyOC1nY206YmRkMzViNjVhNWI3MTZlYjdhOTExNTBjMDY3NjQ5NTZANjYuMjMuMjA1LjgzOjE3NTI5#Sword-saint69
 ss://YWVzLTEyOC1nY206Yzg1NWI3MWUtZjNjMi00NDJhLTk0MjktMDg0NGViNDM0NmM1@ruot.ayucloudservices.nl:35005#Sword-saint69
@@ -2097,6 +2104,7 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.162.24.50:8888#Sword-saint69
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.162.58.13:3389#Sword-saint69
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.99.9.51:5000#Sword-saint69
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:5001#Sword-saint69
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#Sword-saint69
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#Sword-saint69
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5000#Sword-saint69
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:5600#Sword-saint69
@@ -2135,6 +2143,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#Sword-saint69
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@176.32.32.108:18443#Sword-saint69
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.32.108:18443#Sword-saint69
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGFAMTc2LjMyLjMyLjEwODoxODQ0Mw==#Sword-saint69
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.107:8118#Sword-saint69
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.149:8119#Sword-saint69
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.162.58.13:8119#Sword-saint69
@@ -2198,6 +2207,7 @@ ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@89.238.133.123:50695#Sword
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.204:10901#Sword-saint69
 ss://YWVzLTI1Ni1nY206ZDI4OTBjOGYtOGQxNS00MmI3LTgwZTMtNjg3ZmFiOGIyYzdh@192.142.18.127:443#Sword-saint69
 ss://YWVzLTI1Ni1nY206ZDQ2MzQ5OTQtMGU1My00YTU5LTkyZTctZjk5OTc1NWI4NzZm@ruot.ayucloudservices.nl:22044#Sword-saint69
+ss://YWVzLTI1Ni1nY206ZD…#Sword-saint69
 ss://YWVzLTI1Ni1nY206ZFc1cGFFMHhhbk5aZGxaaFVtcHBka0l6TlhSMlNVWlVhRXhqTjFjMFZqbG1hbGRHUW1WeE9IRldOM3BaTUdkTGVYcDJiVlZ0VVU1b01qQkJjMFpRU1E9PUA4OS4xMDQuNjkuMzk6NDM1OTQ=#Sword-saint69
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#Sword-saint69
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#Sword-saint69
@@ -2408,7 +2418,6 @@ ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#Sword-saint69
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#Sword-saint69
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#Sword-saint69
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#Sword-saint69
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388?type=tcp&headerType=none#Sword-saint69
 ss://YWVzLTI1Ni1nY206al9aOXlXcUl0Q3pfOXloRDVZVlk0dw==@185.239.141.248:8388#Sword-saint69
 ss://YWVzLTI1Ni1nY206al9aOXlXcUl0Q3pfOXloRDVZVlk0dw@185.239.141.248:8388#Sword-saint69
 ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#Sword-saint69

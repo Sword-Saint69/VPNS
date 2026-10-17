@@ -2,35 +2,33 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTS1fSVNSY0hQejRjZXR1N2dyZ1NFdjBWcFQ1TVRSRQ@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTS1fSVNSY0hQejRjZXR1N2dyZ1NFdjBWcFQ1TVRSRQ@api.apira98.org:1080 #Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTS1fSVNSY0hQejRjZXR1N2dyZ1NFdjBWcFQ1TVRSRQ@api.apira98.org:1080#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTS1fSVNSY0hQejRjZXR1N2dyZ1NFdjBWcFQ1TVRSRUAyMDYuMS45OS4xMTY6MTA4MA==#Sword-saint69
-trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?security=tls&sni=nimm.mpd.cc.cd&type=ws&path=/0962&Host=nimm.mpd.cc.cd#Sword-saint69
-trojan://humanity@107.181.155.237:443?host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=wWw.Volumeroot.cOm.&type=ws #Sword-saint69
-trojan://humanity@107.181.155.237:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
-trojan://humanity@107.181.155.237:443?sni=wWw.Volumeroot.cOm.&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#Sword-saint69
-trojan://humanity@143.246.136.156:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com #Sword-saint69
-trojan://humanity@143.246.136.156:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#Sword-saint69
-trojan://humanity@143.246.136.99:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws #Sword-saint69
-trojan://humanity@143.246.136.99:443?sni=www.volumeroot.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#Sword-saint69
-trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com #Sword-saint69
 trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
-trojan://humanity@203.202.232.211:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
-trojan://humanity@203.202.232.211:443?sni=www.volumeroot.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#Sword-saint69
 vless://0011d187-d066-48f6-957c-a6983dd63a77@83.217.9.254:443?encryption=none&fp=firefox&pbk=c-LdrrjWXggAWcOkfbwawezHTcw7Bx0kzs973IDFBmM&security=reality&sid=93980c41b30b2d60&sni=tr.netvora.space&type=tcp#Sword-saint69
 vless://0011d187-d066-48f6-957c-a6983dd63a77@83.217.9.254:443?security=reality&encryption=none&pbk=c-LdrrjWXggAWcOkfbwawezHTcw7Bx0kzs973IDFBmM&headerType=none&fp=ios&type=tcp&sni=tr.netvora.space&sid=93980c41b30b2d60#Sword-saint69
 vless://0011d187-d066-48f6-957c-a6983dd63a77@83.217.9.254:443?type=tcp&security=reality&fp=qq&pbk=c-LdrrjWXggAWcOkfbwawezHTcw7Bx0kzs973IDFBmM&sid=93980c41b30b2d60&sni=tr.netvora.space#Sword-saint69
 vless://06f86f1b-1fa0-437e-9e5d-8f8cf27bdf96@45.92.219.204:8088?security=reality&encryption=none&pbk=6m_clJWpXHndi176bB428JqroczCuJVMyhfMGuI9wRI&headerType=none&fp=ios&spx=/da033db9ffa4104&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=11e9#Sword-saint69
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#Sword-saint69
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#Sword-saint69
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9e419c0759b54d6f&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104#Sword-saint69
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?sni=www.apple.com&fp=chrome&security=tls#Sword-saint69
 vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#Sword-saint69
 vless://40084e01-3ab8-4b02-aee2-bcc5088af729@198.105.123.153:2044?security=&encryption=none&headerType=http&type=tcp#Sword-saint69
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?encryption=none&fp=firefox&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&security=reality&sid=cc80ef&sni=www.apple.com&type=tcp#Sword-saint69
 vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=none&type=tcp&sni=www.apple.com&sid=cc80ef#Sword-saint69
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#Sword-saint69
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=ctur.appleseraj.ir&sni=ctur.appleseraj.ir&fp=chrome#Sword-saint69
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@146.103.24.187:8443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom#Sword-saint69
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@203.202.232.110:443?encryption=none&security=tls&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&sni=vlso5.1d.mom&fp=chrome#Sword-saint69
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@203.202.232.110:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#Sword-saint69
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@155.103.71.142:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/fp=chrome#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&path=%2F#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@155.103.71.142:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?path=/@Net2ray&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@203.202.232.211:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
 vless://d384974a-87c2-430b-a10c-ae367bc7ced8@germany24kvlcvkzcxvlqwe312adscrfsdcrc234cef.soft421.ir:1152?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&sid=86a68a48b7d45f43#Sword-saint69
 vless://d663957d-0384-4924-7645-51f0f1aaeeb4@game.celvixo.ir:2087?path=/&security=none&encryption=none&host=cp.xelzano.ir&type=ws#Sword-saint69
 vless://dabbaad9-5ce7-4a02-b24d-0da91a49ea2a@64.49.13.89:38531?encryption=none&security=none&fm={"tcp":[{"settings":{"clients":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]],"servers":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]]},"type":"header-custom"}]}&type=tcp&headerType=http&host=play.google.com#Sword-saint69
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?#Sword-saint69
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?encryption=none&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#Sword-saint69
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjEwMy44My44Ny4yMjkiLCJwb3J0IjoiMzE5NzMiLCJpZCI6ImMwZDY2NjdhLWQyNTctNDcyNC1iY2EwLTE4YzMzZmRkNmI0YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ==#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjIwNi4xLjk3LjIxMiIsInBvcnQiOiIyODM1MSIsImlkIjoiTml0cm9fU2t5Ym90QCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==#Sword-saint69

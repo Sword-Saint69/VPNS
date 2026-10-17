@@ -1,4 +1,8 @@
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#Sword-saint69
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#Sword-saint69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&packetEncoding=xudp#Sword-saint69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?type=ws&host=vms.lifetime58.workers.dev&packet-encoding=xudp#Sword-saint69
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?security=none&type=ws&path=/&host=vms.lifetime59.workers.dev&packetEncoding=none#Sword-saint69
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev#Sword-saint69
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?encryption=none&security=tls&type=ws&host=vlso5.1d.mom&path=%2F&sni=vlso5.1d.mom&fp=chrome#Sword-saint69
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?encryption=none&security=tls&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&sni=vlso5.1d.mom&fp=chrome#Sword-saint69

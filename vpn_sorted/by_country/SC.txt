@@ -1,16 +1,19 @@
 trojan://humanity@45.130.125.112:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com&fp=chrome#Sword-saint69
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
+trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com #Sword-saint69
 trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#Sword-saint69
 trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
+trojan://humanity@45.130.125.190:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment #Sword-saint69
 trojan://humanity@45.130.125.190:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#Sword-saint69
+trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Sword-saint69
+trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#Sword-saint69
 trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#Sword-saint69
+trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Sword-saint69
 vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@45.12.63.165:8443?type=xhttp&security=reality&fp=firefox&pbk=LP7yXSC50lHfxW-BuRQ3OLDBNncF2KVnMgVJuX9XR2w&sid=35cd2022241da999&sni=cdn-de.cahmes.space&path=/xhttp#Sword-saint69
-vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&type=ws&headerType=none&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fid-pusat#Sword-saint69
-vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=%2Fid-pusat%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#Sword-saint69
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&packetEncoding=xudp&encryption=none#Sword-saint69
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.50:8880?security=none&type=ws&host=vms.lifetime58.workers.dev#Sword-saint69
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime58.workers.dev&packetEncoding=xudp#Sword-saint69
-vless://75dd6c7d-b5a2-44f3-843c-812facb22c5e@45.130.125.0:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#Sword-saint69
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.96:443?type=grpc&security=tls&fp=firefox&sni=studio.10media.top&serviceName=studiofeed#Sword-saint69
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#Sword-saint69
 vless://eaf76557-2219-4799-8171-d7020adfefd0@45.130.125.151:443?alpn=http%2F1.1&encryption=none&host=fancy-mouse-6aff.wixit71180.workers.dev&path=%2Fws&security=tls&sni=fancy-mouse-6aff.wixit71180.workers.dev&type=ws #Sword-saint69
