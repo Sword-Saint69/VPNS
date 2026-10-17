@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#Sword-saint69
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#Sword-saint69
 trojan://humanity@31.77.126.2:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
 vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&fp=firefox&host=node-3.wt419.site&path=/qVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws#Sword-saint69
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?flow=xtls-rprx-vision&fp=chrome&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#Sword-saint69
