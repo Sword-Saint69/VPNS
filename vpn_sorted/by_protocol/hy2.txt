@@ -39,8 +39,6 @@ hy2://e625f8ef-f935-4c7d-a259-0f154b6842fd@hy-se.bypassme.online:443#Sword-saint
 hy2://e625f8ef-f935-4c7d-a259-0f154b6842fd@hy-se.bypassme.online:443?sni=hy-se.bypassme.online#Sword-saint69
 hy2://e795f042-4c9f-46d1-9d85-8816e0ff0cfb@fre.guren1.me:8443#Sword-saint69
 hy2://e9dc02d400b67c727aca1620@185.174.137.172:8446?insecure=1&sni=185.174.137.172#Sword-saint69
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#Sword-saint69
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#Sword-saint69
 hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#Sword-saint69
 hy2://gf1%3Agfhysteria2024@173.212.201.85:443?insecure=1&sni=www.docker.com#Sword-saint69
 hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=css.rbxcdn.com#Sword-saint69
