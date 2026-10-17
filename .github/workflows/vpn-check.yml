@@ -1,0 +1,54 @@
+name: VPN Auto Check
+
+on:
+  schedule:
+    # run every 1 hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Revive failed links (mirrors for 404s, API for tree dirs)
+        run: |
+          python3 vpn_revive.py links.txt --out revived --workers 12 --quiet || true
+
+      - name: Pull & sort proxy links (original + revived mirrors)
+        run: |
+          python3 vpn_pull_sort.py revived/revived_links.txt --out vpn_sorted --workers 14 --remark Sword-saint69
+
+      - name: Check liveness (CI quiet mode, remark Sword-saint69)
+        run: |
+          python3 vpn_check.py vpn_sorted/all_dedupe.txt --out vpn_checked --timeout 3 --workers 200 --quiet --remark Sword-saint69
+
+      - name: Tag outputs with username
+        run: |
+          mkdir -p tagged
+          cp vpn_checked/summary.json   tagged/summary_sword-saint69.json
+          cp vpn_checked/alive.txt      tagged/alive_sword-saint69.txt
+          cp vpn_checked/dead.txt       tagged/dead_sword-saint69.txt
+          cp vpn_sorted/summary.json    tagged/pull_summary_sword-saint69.json
+          cp revived/failed.json        tagged/failed_sword-saint69.json
+          ls -la tagged
+
+      - name: Commit and push results
+        run: |
+          git config user.name "sword-saint69"
+          git config user.email "sword-saint69@users.noreply.github.com"
+          git add vpn_sorted vpn_checked tagged index.html README.md revived
+          git commit -m "auto: refresh vpn check results $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "no changes to commit"
+          git push

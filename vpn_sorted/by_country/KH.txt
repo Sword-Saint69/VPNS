@@ -1,0 +1,3 @@
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@93.152.215.176:8443?path=/api/v1/events&security=tls&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=chrome&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#Sword-saint69
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?&security=tls&fp=chrome&sni=nl5.hap-plus.ru&type=ws&headerType=none&host=nl5.hap-plus.ru&path=/api/v1/events#Sword-saint69
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?security=tls&type=ws&sni=nl5.hap-plus.ru&path=%2Fapi%2Fv1%2Fevents&flow=&pbk=&sid=#Sword-saint69
