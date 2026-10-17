@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.vite/
+*.pyc
+__pycache__/
+.idea/
+.DS_Store
