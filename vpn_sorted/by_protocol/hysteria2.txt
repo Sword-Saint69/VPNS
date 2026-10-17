@@ -114,7 +114,6 @@ hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:4
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#Sword-saint69
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?insecure=0&sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#Sword-saint69
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&sni=ru03.arpanet-cdn.com#Sword-saint69
-hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&amp;obfs=salamander&amp;obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&amp;insecure=0&amp;sni=ru03.arpanet-cdn.com#Sword-saint69
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@ru03.arpanet-cdn.com:17701?insecure=1&sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#Sword-saint69
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@ru03.arpanet-cdn.com:17701?sni=ru03.arpanet-cdn.com&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce#Sword-saint69
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#Sword-saint69
