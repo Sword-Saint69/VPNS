@@ -25,7 +25,7 @@ export default function LoaderOrb() {
       </div>
       <div className="text-center">
         <div className="font-medium text-slate-800">
-          Syncing with GitHub Actions…
+          PulseGate is syncing…
         </div>
         <div className="mt-1 font-mono text-xs text-slate-400">
           fetching summary_sword-saint69.json

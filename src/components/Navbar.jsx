@@ -1,4 +1,4 @@
-import { Swords, Github, Radio } from 'lucide-react'
+import { Activity, Github, Radio } from 'lucide-react'
 
 const REPO_URL = 'https://github.com/Sword-Saint69/VPNS'
 
@@ -15,11 +15,11 @@ export default function Navbar({ generatedAt }) {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4 sm:px-6">
         <div className="flex min-w-0 items-center gap-3">
           <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-teal-500 to-cyan-600 text-white">
-            <Swords className="h-5 w-5" />
+            <Activity className="h-5 w-5" />
           </div>
           <div className="min-w-0 leading-tight">
             <div className="truncate font-bold tracking-tight text-slate-900">
-              VPN Auto Check
+              PulseGate
             </div>
             <div className="truncate text-xs text-slate-400">sword-saint69</div>
           </div>

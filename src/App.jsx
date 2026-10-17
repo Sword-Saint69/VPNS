@@ -159,7 +159,7 @@ export default function App() {
         <div className="mb-6 flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
           <div>
             <h1 className="text-xl font-bold tracking-tight text-slate-900 sm:text-2xl md:text-3xl">
-              VPN Auto Check{' '}
+              PulseGate{' '}
               <span className="font-medium text-slate-400">· sword-saint69</span>
             </h1>
             <p className="mt-1 text-sm text-slate-500">
