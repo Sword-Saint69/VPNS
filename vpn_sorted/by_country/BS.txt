@@ -1,3 +1,1 @@
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@91.240.87.0:443?type=grpc&security=reality&encryption=none&sni=magnit.chronoaudit.ru&pbk=Jde1DJZOlruMw7ZSXiJnz0RY4MoYJ4iV1eQkvIU6Qj0&sid=a3c9e1f04b7d2856&spx=%2F&headerType=none&serviceName=EventStreamService&mode=gun&fp=chrome#Sword-saint69
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@91.240.87.0:443?type=grpc&security=reality&encryption=none&sni=magnit.chronoaudit.ru&pbk=Jde1DJZOlruMw7ZSXiJnz0RY4MoYJ4iV1eQkvIU6Qj0&sid=a3c9e1f04b7d2856&spx=%2F&headerType=none&serviceName=EventStreamService&mode=gun&fp=ios#Sword-saint69
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@91.240.87.0:443?type=grpc&security=reality&encryption=none&sni=magnit.chronoaudit.ru&pbk=Jde1DJZOlruMw7ZSXiJnz0RY4MoYJ4iV1eQkvIU6Qj0&sid=a3c9e1f04b7d2856&spx=%2F&headerType=none&serviceName=EventStreamService&mode=gun&fp=safari#Sword-saint69
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#Sword-saint69
