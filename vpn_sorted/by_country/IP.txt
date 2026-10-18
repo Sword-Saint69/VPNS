@@ -1,4 +1,5 @@
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?security=tls&sni=match-stream.lovkisport.blog&alpn=h3&insecure=0#Sword-saint69
-hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@193.233.88.26:443?sni=ru1server.rabstvo.shop#Sword-saint69
-hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@ru1server.rabstvo.shop:443?sni=ru1server.rabstvo.shop#Sword-saint69
-vless://e3026ffb-cde6-4cfe-b4b7-f76d5264e969@roxnsk.color-shop.ir:8080?encryption=none&security=none&type=tcp&headerType=none#Sword-saint69
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@yt.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dsapi-v2-6ad3c751.adhil.uk&mode=stream-one&fp=chrome#Sword-saint69
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@yt.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dsapi-v2-6ad3c751.adhil.uk&mode=stream-one&fp=edge#Sword-saint69
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@yt.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dsapi-v2-6ad3c751.adhil.uk&mode=stream-one&fp=firefox#Sword-saint69
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@yt.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dsapi-v2-6ad3c751.adhil.uk&mode=stream-one&fp=ios#Sword-saint69
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@yt.noooo.win:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=dsapi-v2-6ad3c751.adhil.uk&mode=stream-one&fp=safari#Sword-saint69
