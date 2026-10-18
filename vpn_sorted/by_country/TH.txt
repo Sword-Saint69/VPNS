@@ -1,13 +1,11 @@
 ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#Sword-saint69
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0@103.107.52.106:52351#Sword-saint69
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0@pphfree2.mvpnpvpn.de5.net:52351#Sword-saint69
 vless://3c52e091-6714-4915-949f-2149fe69951b@188.114.97.6:443?allowInsecure=0&sni=v2ray.simspeedup.com&alpn=http/1.1&type=ws&host=v2ray.simspeedup.com&path=/wsfp=chrome&security=tls#Sword-saint69
-vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?&packet-encoding=xudp&type=ws&headerType=none&host=aIs.SpEeDtEsT.nEt&path=%2Fws #Sword-saint69
-vless://3c52e091-6714-4915-949f-2149fe69951b@support.zoom.us.v2ray.simspeedup.com:80?fp=firefox&host=support.zoom.us.v2ray.simspeedup.com&path=%2Fws&security=none&sni=support.zoom.us.v2ray.simspeedup.com&type=ws #Sword-saint69
-vless://3c52e091-6714-4915-949f-2149fe69951b@support.zoom.us.v2ray.simspeedup.com:80?path=%2Fws&security=none&type=ws #Sword-saint69
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?&packet-encoding=xudp&type=ws&headerType=none&host=v2ray.simspeedup.com&path=%2Fws #Sword-saint69
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?fp=firefox&host=ais.speedtest.net&path=%2Fws&security=none&sni=v2ray.simspeedup.com&type=ws #Sword-saint69
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws #Sword-saint69
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOiIzNzUxNSIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOiIzNzUxNSIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIiwidGxzIjoiIiwiaG9zdCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOiIzNzUxNSIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJub25lIiwidHlwZSI6IiIsInRscyI6IiJ9#Sword-saint69
+vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjExOS40Ni41MS40NSIsInBvcnQiOiIzNzUxNSIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoiIiwidGxzIjoiIn0=#Sword-saint69
+vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwb3J0IjoiNDk2NjciLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=#Sword-saint69
 vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmV0Ijoibm9uZSIsInBhdGgiOiIiLCJwb3J0IjoiMzc1MTUiLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#Sword-saint69
