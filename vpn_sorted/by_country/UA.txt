@@ -1,5 +1,4 @@
 trojan://humanity@144.31.195.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.135.235.123:443?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2#Sword-saint69
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.135.235.123:443?security=tls&type=ws&path=/Telegram-WangCai2üá®üá≥&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#Sword-saint69
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=android&security=tls#Sword-saint69
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=androidsecurity=tls#Sword-saint69
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#Sword-saint69
