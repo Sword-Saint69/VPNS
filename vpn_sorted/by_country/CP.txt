@@ -1,1 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.244:22222?encryption=none&security=none&type=tcp#Sword-saint69
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#Sword-saint69

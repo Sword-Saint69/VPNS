@@ -1,4 +1,1 @@
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=android#Sword-saint69
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=firefox#Sword-saint69
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=qq#Sword-saint69
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=safari#Sword-saint69
+hysteria2://maintell@46.38.157.165:2053?insecure=1&sni=bing.com#Sword-saint69
