@@ -1,2 +1,1 @@
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@188.225.45.52:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=VMCXzW6i3_kG-1gpuM0eELJbyMDP9pEZEVjlaYvG_FY&security=reality&sid=bcf0df5faa47a020&sni=broadcast.shardshop.cc&type=raw#Sword-saint69
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@194.55.239.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=exMJ2DIglSgZ7Ly4qR83kRJs6RGzVk-qJMg7Qz-kCRs&security=reality&sid=55901e05c3d5dfd3&sni=7xncdn.shardtech.pro&type=raw#Sword-saint69
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?encryption=none&fp=ios&host=cdn-01.funvideos.video&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&security=tls&sni=cdn-01.funvideos.video&type=ws#Sword-saint69
