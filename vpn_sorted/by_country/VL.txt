@@ -1,1 +1,1 @@
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?encryption=none&fp=ios&host=cdn-01.funvideos.video&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&security=tls&sni=cdn-01.funvideos.video&type=ws#Sword-saint69
+vless://e667f5c7-6b38-48ef-ab89-40519713afb0@78.159.250.88:2096?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#Sword-saint69
