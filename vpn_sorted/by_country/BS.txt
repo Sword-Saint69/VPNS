@@ -1,7 +1,4 @@
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1#Sword-saint69
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=194.87.118.184#Sword-saint69
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=off#Sword-saint69
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?security=tls&sni=match-stream.lovkisport.blog&alpn=h3&insecure=0#Sword-saint69
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?sni=match-stream.lovkisport.blog#Sword-saint69
-hysteria2://maintell@46.38.157.165:2053?insecure=1&sni=bing.com#Sword-saint69
-trojan://mitivpn@167.82.64.46:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=firefox.com#Sword-saint69
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=android#Sword-saint69
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=firefox#Sword-saint69
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=qq#Sword-saint69
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&allowInsecure=1&fp=safari#Sword-saint69
