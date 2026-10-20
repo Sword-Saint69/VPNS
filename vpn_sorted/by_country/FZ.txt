@@ -1,1 +1,1 @@
-vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sni=brointelengence.com&type=tcp#Sword-saint69
+vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@13.143.184.155:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rM3p4mL72kcpvnxVRYxl5J0zPbxE2U3iZua0F29SHTQ&security=reality&sid=8d942904d3e87323&sni=assets-sh-185.spbstudentlife.com&type=tcp#Sword-saint69
