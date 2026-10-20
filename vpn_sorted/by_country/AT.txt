@@ -1,10 +1,7 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#Sword-saint69
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
+trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@72.56.241.75:1443?encryption=none&mode=gun&pbk=vi1vP3RJQgLsRgzaiKvjr44iNRzI62lSYMipnrTMAUs&security=reality&serviceName=grpc&sni=static.nyx53.shop&type=grpc&fp=firefox#Sword-saint69
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@72.56.241.75:1443?encryption=none&mode=gun&pbk=vi1vP3RJQgLsRgzaiKvjr44iNRzI62lSYMipnrTMAUs&security=reality&serviceName=grpc&sni=static.nyx53.shop&type=grpc&fp=ios#Sword-saint69
-vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@72.56.241.75:1443?encryption=none&mode=gun&pbk=vi1vP3RJQgLsRgzaiKvjr44iNRzI62lSYMipnrTMAUs&security=reality&serviceName=grpc&sni=static.nyx53.shop&type=grpc&fp=safari#Sword-saint69
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?security=reality&sni=36a466g.fi1.h1clayd.click&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&type=grpc&serviceName=0adb9638509b&packetEncoding=xudp&encryption=none#Sword-saint69
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?security=reality&sni=36a466g.fi1.h1clayd.click&fp=ios&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&type=grpc&serviceName=0adb9638509b&packetEncoding=xudp&encryption=none#Sword-saint69
-vless://b1097a54-29de-4014-962c-c835d96e8409@109.120.150.245:8443?encryption=none&type=grpc&security=reality&sni=www.rutube.ru&pbk=jMBABUVbMNQbil2pkU_bYTFoGKAM6NaTTjCqtme_0CA&sid=60e1354574cf8cd8&spx=%2F&serviceName=api.v1.Sync&fp=firefox#Sword-saint69
+trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
+vmess://eyJhZGQiOiI5NC4xNzcuOS42NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMTkzM2E0MjUtMjg0Mi00ZDJiLTg1ODktOWNhMjI0MmQ3NDE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyOTgyNSIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=#Sword-saint69

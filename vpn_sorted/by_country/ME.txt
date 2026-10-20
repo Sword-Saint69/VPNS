@@ -1,7 +1,15 @@
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
+trojan://humanity@31.57.190.40:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
 trojan://humanity@31.57.190.40:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
-trojan://humanity@31.57.190.40:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org #Sword-saint69
+trojan://humanity@31.57.190.40:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
+trojan://humanity@31.57.190.71:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#Sword-saint69
+trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
+trojan://humanity@31.57.190.73:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
 trojan://humanity@31.57.190.89:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
 trojan://humanity@31.57.190.89:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fassignment&host=www.pleadcourt.org#Sword-saint69
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@31.57.190.50:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fws&host=a.cwvps.eu.org#Sword-saint69
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@31.57.190.89:443?encryption=none&security=tls&sni=a.cwvps.eu.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fws&host=a.cwvps.eu.org#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?allowInsecure=0&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&path=%2F#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#Sword-saint69
@@ -12,6 +20,16 @@ vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?type=ws&security=t
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.50:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=/fp=chrome#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&path=%2F#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz#Sword-saint69
+vless://d4733e5a-5850-4523-942e-f28f82ebf4a9@31.57.190.15:443?&security=tls&sni=party-5cn.pages.dev&type=ws&headerType=none&host=party-5cn.pages.dev&path=%2F#Sword-saint69
+vless://d4733e5a-5850-4523-942e-f28f82ebf4a9@31.57.190.15:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=party-5cn.pages.dev&type=ws&allowInsecure=0&sni=party-5cn.pages.dev#Sword-saint69
+vless://d4733e5a-5850-4523-942e-f28f82ebf4a9@31.57.190.15:443?type=ws&security=tls&fp=chrome&host=party-5cn.pages.dev#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.15:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&alpn=http%2F1.1&encryption=none&host=lucasjow.us.ci&fp=unsafe&type=ws&sni=lucasjow.us.ci#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.15:443?security=tls&type=ws&sni=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&flow=&pbk=&sid=#Sword-saint69
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.50:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&alpn=http%2F1.1&encryption=none&host=lucasjow.us.ci&fp=unsafe&type=ws&sni=lucasjow.us.ci#Sword-saint69
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.89:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&alpn=http%2F1.1&encryption=none&host=lucasjow.us.ci&fp=unsafe&type=ws&sni=lucasjow.us.ci#Sword-saint69
+vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.89:443?security=tls&type=ws&sni=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&flow=&pbk=&sid=#Sword-saint69

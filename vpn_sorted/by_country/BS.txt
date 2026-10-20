@@ -1,1 +1,1 @@
-hysteria2://maintell@46.38.157.165:2053?insecure=1&sni=bing.com#Sword-saint69
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#Sword-saint69
