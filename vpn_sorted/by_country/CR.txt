@@ -1,3 +1,2 @@
 trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
-vless://5dc9999b-9810-4704-ab10-5d1691daeab6@190.93.245.189:2083?alpn=http/1.1&encryption=none&fp=chrome&host=p2.mxpaystore.xyz&path=/mxgrid&security=tls&sni=p2.mxpaystore.xyz&type=ws#Sword-saint69
-vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@176.98.176.86:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#Sword-saint69
+vless://8f67e374-53d9-43bb-85c9-a459a959cd1b@194.77.71.152:443?security=reality&encryption=none&pbk=e7i5my9c3knQgYrKCJ0pVJEPt8ZDTdbcmCtzK7IQU2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.1.1.1&sid=74bd7db505e16e3f#Sword-saint69
