@@ -1,13 +1,11 @@
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#Sword-saint69
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#Sword-saint69
-trojan://humanity@31.77.126.2:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
-vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#Sword-saint69
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=23d0950d60bc0d5b&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw#Sword-saint69
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&sid=23d0950d60bc0d5b&sni=gateway.icloud.com#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=%2Ffp%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
-vless://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:2083?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=speedtestmark.com#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?&security=tls&fp=chrome&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2F#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?alpn=http%2F1.1&encryption=none&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#Sword-saint69
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&type=ws&path=%2F#Sword-saint69
