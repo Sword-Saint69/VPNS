@@ -1,4 +1,1 @@
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=chrome#Sword-saint69
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=edge#Sword-saint69
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=firefox#Sword-saint69
-vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=safari#Sword-saint69
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#Sword-saint69

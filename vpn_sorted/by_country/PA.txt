@@ -1,0 +1,1 @@
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@50.117.15.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&security=reality&sid=91af08b1ce1f&sni=www.foxsports.com&type=tcp#Sword-saint69

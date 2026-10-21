@@ -1,3 +1,2 @@
-trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#Sword-saint69
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#Sword-saint69
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#Sword-saint69
-trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#Sword-saint69
