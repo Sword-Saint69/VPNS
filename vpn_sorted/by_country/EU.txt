@@ -1,1 +1,1 @@
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@windytrout.net:2053?encryption=none&security=tls&sni=windytrout.net&type=xhttp&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net&mode=auto#Sword-saint69
+vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@87.242.95.164:8445?security=reality&encryption=none&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru#Sword-saint69

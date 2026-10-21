@@ -1,7 +1,8 @@
+trojan://humanity@212.183.88.136:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#Sword-saint69
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#Sword-saint69
-vless://8007dda2-aed2-4514-8299-6e3edbdb015b@66.90.106.228:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=au1.wolffast.net&sid=8718c58d3d51db59#Sword-saint69
 vmess://eyJhZGQiOiI5NC4xNzcuOS42NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMTkzM2E0MjUtMjg0Mi00ZDJiLTg1ODktOWNhMjI0MmQ3NDE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyOTgyNSIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=#Sword-saint69
