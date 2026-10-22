@@ -1,1 +1,4 @@
-trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#Sword-saint69
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=android#Sword-saint69
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=chrome#Sword-saint69
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=firefox#Sword-saint69
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=qq#Sword-saint69

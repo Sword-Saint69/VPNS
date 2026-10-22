@@ -1,3 +1,2 @@
 trojan://humanity@31.57.190.71:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=/fp#Sword-saint69
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?alpn=http/1.1&encryption=none&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=unsafe&security=tls&sni=lucasjow.us.ci&type=ws#Sword-saint69
