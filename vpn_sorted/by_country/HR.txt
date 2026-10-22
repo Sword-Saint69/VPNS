@@ -1,2 +1,1 @@
-vless://8179d7cc-82bc-4eae-a97f-5d30c6c2a812@2.56.175.179:9443?encryption=none&fp=firefox&pbk=8bhS-nnIN67a292RpJsCPzXQy4CzpzOVLTPn5CiAFyg&security=reality&serviceName=grpc&sid=6ba7b810&sni=itunes.apple.com&type=grpc#Sword-saint69
-vless://8179d7cc-82bc-4eae-a97f-5d30c6c2a812@2.56.175.179:9443?encryption=none&type=grpc&mode=multi&serviceName=grpc&security=reality&fp=chrome&sni=itunes.apple.com&pbk=8bhS-nnIN67a292RpJsCPzXQy4CzpzOVLTPn5CiAFyg&sid=6ba7b810#Sword-saint69
+vless://5c8950a3-2142-42c9-b414-fa34526ff25f@5.181.2.168:443?security=reality&encryption=none&pbk=FSoosmyb1Odcc6yucO4B-0YC0fKytdBbvuwJKn7Wbkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hr1-4v.zvcorp24.com&sid=86afa150bc3a48f6#Sword-saint69

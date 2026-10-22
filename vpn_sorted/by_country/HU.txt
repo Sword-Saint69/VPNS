@@ -1,2 +1,1 @@
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@217.13.105.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&security=reality&sid=a09ef132e6a308ae&sni=hu3.aiage.work&type=tcp#Sword-saint69
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@87.229.84.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&security=reality&sid=a09ef132e6a308ae&sni=hu3.aiage.work&type=tcp#Sword-saint69
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@74.49.214.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Sword-saint69
