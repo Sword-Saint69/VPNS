@@ -1,1 +1,1 @@
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@45.129.141.197:443?security=reality&encryption=none&pbk=XjdhbKkou-RV3ZyRrycpH-l0QrlhClkcfaMVlQ-Vtz8&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.websupport.sk&sid=ef#Sword-saint69
+vless://4dc8093e-4eff-410b-bc14-b69f78209414@80.243.228.130:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#Sword-saint69

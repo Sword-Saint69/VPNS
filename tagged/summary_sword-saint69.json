@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-22T07:42:40.015895+00:00",
+  "generated_at": "2026-10-22T13:53:46.084037+00:00",
   "input": "vpn_sorted/all_dedupe.txt",
   "timeout": 3.0,
   "workers": 200,
-  "total": 16780,
-  "alive": 11174,
-  "dead": 5606,
-  "alive_rate": 66.59,
+  "total": 29322,
+  "alive": 22805,
+  "dead": 6517,
+  "alive_rate": 77.77,
   "by_protocol_alive": {
-    "hy2": 11,
-    "hysteria2": 108,
-    "ss": 526,
-    "trojan": 971,
-    "vless": 9558
+    "hy2": 8,
+    "hysteria2": 62,
+    "ss": 6631,
+    "trojan": 1916,
+    "vless": 14188
   },
   "by_protocol_dead": {
-    "?": 3545,
-    "hy2": 42,
-    "hysteria2": 313,
-    "ss": 955,
-    "trojan": 220,
+    "?": 4183,
+    "hy2": 52,
+    "hysteria2": 302,
+    "ss": 1101,
+    "trojan": 189,
     "tuic": 3,
-    "vless": 528
+    "vless": 687
   }
 }
