@@ -1,1 +1,2 @@
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.142.120.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#Sword-saint69
+vless://50414e45-4c5f-5a45-5553-eb719e39bd09@104.234.239.92:443?path=/stream/PANEL_ZEUS/eb719e39bd09&security=tls&encryption=none&host=hqzxcaeyukms.z2zptsequlds.workers.dev&type=ws&insecure=0&fp=unsafe&allowInsecure=0&sni=hqzxcaeyukms.z2zptsequlds.workers.dev#Sword-saint69
+vless://50414e45-4c5f-5a45-5553-eb719e39bd09@104.234.239.92:80?path=/stream/PANEL_ZEUS/eb719e39bd09&security=none&encryption=none&host=hqzxcaeyukms.z2zptsequlds.workers.dev&type=ws#Sword-saint69
