@@ -1,2 +1,2 @@
-vless://9ab3a362-1518-496d-b08d-eced45cec936@es.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.srv.dvzh.net&sid=e0ccc8c2f487d913#Sword-saint69
-vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#Sword-saint69
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#Sword-saint69

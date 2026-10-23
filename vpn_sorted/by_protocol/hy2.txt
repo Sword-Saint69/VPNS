@@ -1,11 +1,10 @@
 hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=off#Sword-saint69
-hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1#Sword-saint69
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=132.226.226.189#Sword-saint69
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=off#Sword-saint69
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#Sword-saint69
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=138.3.208.26#Sword-saint69
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=off#Sword-saint69
 hy2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=1#Sword-saint69
+hy2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?insecure=1&sni=152-69-231-175.liao.kdns.fr#Sword-saint69
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#Sword-saint69
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=off#Sword-saint69
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#Sword-saint69
@@ -13,7 +12,6 @@ hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1#Sword
 hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=129.213.91.185#Sword-saint69
 hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#Sword-saint69
 hy2://46647da9-d4b4-407f-bea6-ad0b1abc561f@192.236.226.182:2053?insecure=1&sni=192.236.226.182#Sword-saint69
-hy2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443?#Sword-saint69
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?#Sword-saint69
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&sni=nl-hy-test.tcp-reset-club.net#Sword-saint69
 hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&sni=tcp-reset-club.net#Sword-saint69
@@ -23,7 +21,6 @@ hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#Sword
 hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1#Sword-saint69
 hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1&sni=vp3.yysyy.online#Sword-saint69
 hy2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?#Sword-saint69
-hy2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1&sni=150-230-252-217.liao.kdns.fr#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=t.me#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1#Sword-saint69
@@ -45,7 +42,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https3a2f2ft.me
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=httpst.mewangcai2#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=off#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&sni=vpn-de-002.fastervpn.world#Sword-saint69
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.167.227:443?insecure=1&sni=vpn-fr-001.fastervpn.world#Sword-saint69
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=off#Sword-saint69
@@ -55,19 +52,17 @@ hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#Sword-sain
 hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=31.57.248.176#Sword-saint69
 hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com%2523%25e9%25a6%2583%25e5%259a%259f%25e9%25a6%2583%25e5%259a%25a2%257chk%257c%2540wxgqlfx%257c147#Sword-saint69
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=off#Sword-saint69
-hy2://c3a8753e-317e-479e-bee7-01adf5e2af7e@fre.guren1.me:8443#Sword-saint69
+hy2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?insecure=1&sni=fi.67chat.ru#Sword-saint69
 hy2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru#Sword-saint69
 hy2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?insecure=1&sni=tcp-reset-club.net#Sword-saint69
-hy2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?sni=nl-hy-test.tcp-reset-club.net#Sword-saint69
 hy2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=nl-hy-test.tcp-reset-club.net#Sword-saint69
 hy2://e795f042-4c9f-46d1-9d85-8816e0ff0cfb@fre.guren1.me:8443?#Sword-saint69
+hy2://f5f0babe-aea2-4f07-a1fc-3c9820253f49@jp1.frnhk.xyz:9443?sni=jp1.frnhk.xyz#Sword-saint69
 hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#Sword-saint69
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#Sword-saint69
 hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=vk.com#Sword-saint69
 hy2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#Sword-saint69
 hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=62.210.7.139#Sword-saint69
 hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=t.me#Sword-saint69
-hy2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#Sword-saint69
 hy2://maintell@152.70.237.123:2053?insecure=1#Sword-saint69
 hy2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#Sword-saint69
 hy2://miaoge110@5.45.100.100:51511?insecure=1&sni=www.bing.com#Sword-saint69
@@ -77,4 +72,5 @@ hy2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1#Sword-saint69
 hy2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=8.211.175.236#Sword-saint69
 hy2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=bing.com#Sword-saint69
 hy2://user317_windows%3Ac70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1#Sword-saint69
+hy2://user317_windows%3Ac70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1&sni=www.bing.com#Sword-saint69
 hy2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#Sword-saint69
