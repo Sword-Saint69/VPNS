@@ -1,1 +1,1 @@
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.bubahero.com&sid=9c2378562188c3cb#Sword-saint69
+vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.78.150:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=rohamhaaaavista.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Sword-saint69

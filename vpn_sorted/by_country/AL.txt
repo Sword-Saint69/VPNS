@@ -1,6 +1,4 @@
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@alb1337.zaebalsanoproxyklinus.lol:28152?sni=alb1337.zaebalsanoproxyklinus.lol#Sword-saint69
-hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@157.22.240.126:28152?sni=alb1337.zaebalsanoproxyklinus.lol#Sword-saint69
-hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@alb1337.zaebalsanoproxyklinus.lol:28152?sni=alb1337.zaebalsanoproxyklinus.lol#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6aU9lS2VqaGh3K2ZtV2V0K3h2dUpzVkpIN1U5RHZTV3ExaGxxdGFLditJPQ@130.49.189.158:43558#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUWVFb1hDNVlsNVBablBMdktVcEZUVTljeVFjTkc5MDJ6cGliV2t3R2JvPQ@130.49.189.158:43558#Sword-saint69
 ss://YWVzLTEyOC1nY206MTZlM2QxZDIyMDBmOGJiNjhmZWVkMTY0ZWY0M2EwMjE@31.171.155.50:10394#Sword-saint69
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chromesecurity=tls#Sword-saint69
