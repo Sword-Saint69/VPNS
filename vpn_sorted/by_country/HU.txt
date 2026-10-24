@@ -1,2 +1,1 @@
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#Sword-saint69

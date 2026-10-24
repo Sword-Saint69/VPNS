@@ -1,14 +1,10 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#Sword-saint69
-trojan://humanity@212.183.88.136:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2F%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Sword-saint69
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=//assignment&sni=www.calmlunch.com&type=ws#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#Sword-saint69
-vless://0ce6e041-b701-4dd0-a82a-96b287abc4bf@vena.solomon-planet.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&sni=vena.solomon-planet.ru#Sword-saint69
-vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@152.53.102.127:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&security=reality&sni=lstu.ru&type=tcp#Sword-saint69
-vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@45.128.78.159:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&security=reality&sni=at.lstu.ru&type=tcp#Sword-saint69
+vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@152.53.102.127:443?security=reality&type=tcp&sni=lstu.ru&fp=firefox&flow=xtls-rprx-vision&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&encryption=none#Sword-saint69
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=androidsecurity=tls#Sword-saint69
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@110.172.148.33:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#Sword-saint69
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?encryption=none&fp=firefox&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&type=ws#Sword-saint69
-vless://76ad3e79-fb8c-4ee2-a8f1-491573daa663@138.124.90.249:7445?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&type=ws&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=%2F%40Marisa_kristi#Sword-saint69
