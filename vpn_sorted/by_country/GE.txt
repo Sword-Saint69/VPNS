@@ -1,1 +1,1 @@
-vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@147.45.46.135:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#Sword-saint69
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@80.66.79.127:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xJZgy1PaEukFZ06H3VV64iLhA8nlAj2MYwC68BKA5Sc&security=reality&sni=i2mjmbaykn.calveron-edge73.cyou&type=tcp#Sword-saint69
