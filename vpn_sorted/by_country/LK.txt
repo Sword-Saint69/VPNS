@@ -1,1 +1,2 @@
-vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@free.sahanwickramasinghe.me:80?type=ws&host=free.sahanwickramasinghe.me&path=/#Sword-saint69
+vless://c136a12c-4260-48a7-a1e6-fbda83a11045@51.75.67.209:8443?encryption=none&fp=firefox&host=free.sahanwickramasinghe.me&security=tls&sni=free.sahanwickramasinghe.me&type=ws#Sword-saint69
+vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@support.zoom.us:80?sni=free.sahanwickramasinghe.me&type=ws&host=free.sahanwickramasinghe.me&path=/#Sword-saint69
