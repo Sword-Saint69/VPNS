@@ -1,6 +1,7 @@
 hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&amp;security=tls&amp;sni=www.bing.com#Sword-saint69
 hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#Sword-saint69
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#Sword-saint69
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#Sword-saint69
