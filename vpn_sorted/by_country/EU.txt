@@ -1,3 +1,4 @@
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.179:8443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv1%2Fupload&host=randomquaint.net&sni=randomquaint.net&fp=firefox&headerType=none&mode=auto#Sword-saint69
+vless://8c8a8681-5444-4e18-a427-54f19eea6a77@188.225.72.122:1443?type=tcp&headerType=none&security=reality&encryption=none&sni=sh.shvedpride.shop&fp=firefox&pbk=WBNom5f5q6BO4YVWzNbZ8FM5ZYmowxybY7bF6fNfzGk&flow=xtls-rprx-vision#Sword-saint69
 vless://XpnTeam-41@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#Sword-saint69
-vless://c8b3c1d7-4294-4f30-9e5b-e4693b64d518@185.86.145.142:443?alpn=http%2F1.1&encryption=none&host=deliverya.online&path=%2Fadrws&security=tls&sni=deliverya.online&type=ws&fp=ios#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69

@@ -1,4 +1,13 @@
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=android#Sword-saint69
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=chrome#Sword-saint69
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=firefox#Sword-saint69
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:8443?security=reality&encryption=none&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&type=grpc&sni=vk.ru&sid=4d2cf3&fp=qq#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&alpn=h2%2Chttp%2F1.1%2Ch3&host=fin.netvia.ir&path=%2FYaujaGsyr&security=tls&sni=fin.netvia.ir&type=ws&fp=qq#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&host=fin.netvia.ir&path=%2FYaujaGsyr&security=tls&sni=fin.netvia.ir&type=ws&fp=edge#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&host=fin.netvia.ir&path=%2FYaujaGsyr&security=tls&sni=fin.netvia.ir&type=ws&fp=firefox#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?security=tls&sni=fin.netvia.ir&type=ws&path=%2FYaujaGsyr&Host=fin.netvia.ir&fp=chrome#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?security=tls&sni=fin.netvia.ir&type=ws&path=%2FYaujaGsyr&Host=fin.netvia.ir&fp=ios#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?security=tls&sni=fin.netvia.ir&type=ws&path=%2FYaujaGsyr&Host=fin.netvia.ir&fp=safari#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&path=%2FYaujaGsyr&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&sni=fin.netvia.ir&fp=android#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&path=%2FYaujaGsyr&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&sni=fin.netvia.ir&fp=ios#Sword-saint69
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&path=%2FYaujaGsyr&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&sni=fin.netvia.ir&fp=qq#Sword-saint69
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=qq#Sword-saint69
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=safari#Sword-saint69
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@ru.dostupnety.website:443?security=tls&sni=ru.dostupnety.website&type=ws&path=%2Fws-hidden&host=ru.dostupnety.website&fp=firefox#Sword-saint69
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@ru.dostupnety.website:443?security=tls&sni=ru.dostupnety.website&type=ws&path=%2Fws-hidden&host=ru.dostupnety.website&fp=safari#Sword-saint69
