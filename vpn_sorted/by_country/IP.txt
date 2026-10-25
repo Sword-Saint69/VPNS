@@ -1,3 +1,4 @@
-vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=safari#Sword-saint69
-vless://2c5e1028-528f-4017-8832-addcb6797ddf@ru.dostupnety.website:443?security=tls&sni=ru.dostupnety.website&type=ws&path=%2Fws-hidden&host=ru.dostupnety.website&fp=qq#Sword-saint69
-vless://2c5e1028-528f-4017-8832-addcb6797ddf@ru.dostupnety.website:443?security=tls&type=ws&sni=ru.dostupnety.website&path=%2Fws-hidden#Sword-saint69
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=android#Sword-saint69
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=ios#Sword-saint69
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@ru.dostupnety.website:443?security=tls&sni=ru.dostupnety.website&type=ws&path=%2Fws-hidden&host=ru.dostupnety.website&fp=firefox#Sword-saint69
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&mode=gun&fp=safari#Sword-saint69
