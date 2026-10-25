@@ -1,11 +1,10 @@
 trojan://humanity@45.130.125.126:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
-trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#Sword-saint69
+trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#Sword-saint69
 trojan://humanity@45.130.125.190:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#Sword-saint69
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&sni=www.calmlunch.com&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#Sword-saint69
 trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Sword-saint69
 trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#Sword-saint69
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#Sword-saint69
 vless://eaf76557-2219-4799-8171-d7020adfefd0@45.130.125.151:443?security=tls&type=ws&path=/ws&host=fancy-mouse-6aff.wixit71180.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=fancy-mouse-6aff.wixit71180.workers.dev&fp=chrome#Sword-saint69
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Sword-saint69
-vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjY2IiwiYWlkIjo2NCwiaG9zdCI6Ind3dy43MjI4MTE0OS54eXoiLCJpZCI6IjRlYzBhZTYyLWRlMDktNDAyOS05MDRhLTAzMTNkNDYyOGVjZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MDQyNzY0NjY3NjAiLCJwb3J0IjozMTAwMCwicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69
