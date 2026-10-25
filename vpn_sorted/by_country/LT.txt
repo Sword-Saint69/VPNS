@@ -1,2 +1,6 @@
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@88.216.69.253:443?cs=semi-python&path=%2Fws&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Sword-saint69
+trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#Sword-saint69
+trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#Sword-saint69
+trojan://humanity@88.216.69.253:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime05.workers.dev&packetEncoding=xudp&encryption=none#Sword-saint69
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@88.216.69.253:443?cs=semi-python&path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&fm=tlshello-0-len&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Sword-saint69
 vmess://eyJhZGQiOiI4NS4yMDYuMTY1LjM2IiwiYWlkIjo2NCwiaG9zdCI6IiIsImlkIjoiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69

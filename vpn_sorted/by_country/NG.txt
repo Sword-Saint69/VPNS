@@ -1,1 +1,2 @@
-vless://0931e682-88d2-4eaf-de9e-b9b9768fd178@game.celvixo.ir:2087?path=/&security=&encryption=none&host=cp.xelzano.ir&type=ws#Sword-saint69
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#Sword-saint69
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#Sword-saint69
