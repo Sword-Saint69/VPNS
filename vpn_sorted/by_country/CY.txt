@@ -1,2 +1,4 @@
 vless://35da102e-536b-4103-9632-58c7c4c6303b@pl2.originmesh.online:443?encryption=none&flow=xtls-rprx-vision&pbk=CJQVTbsNkeY_C4POmWXcTSCsiTdysjxnXyTmFQdfKmE&security=reality&sid=eecfe76af97a6132&sni=pl2.originmesh.online&type=tcp#Sword-saint69
+vless://69158986-cfae-4567-8391-0f96d9d985bd@89.208.210.53:19133?encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&security=reality&sni=music.apple.com&type=xhttp&fp=chrome#Sword-saint69
+vless://69158986-cfae-4567-8391-0f96d9d985bd@router.hermit.pw:19133?type=xhttp&security=reality&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&sni=music.apple.com&mode=auto#Sword-saint69
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chromesecurity=tls#Sword-saint69

@@ -1,2 +1,2 @@
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@213.176.19.58:2096?encryption=none&pbk=Sb%20OEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=qq#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Sword-saint69
 vmess://eyJhZGQiOiI0Ni4yOS4yMTguODQiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9#Sword-saint69
