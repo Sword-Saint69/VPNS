@@ -1,11 +1,8 @@
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#Sword-saint69
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#Sword-saint69
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
 trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
 trojan://humanity@131.196.254.151:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#Sword-saint69
-vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?&security=tls&fp=chrome&sni=kclx.eu.org&type=ws&headerType=none&host=kclx.eu.org&path=%2F154.16.10.34-8080#Sword-saint69
-vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?encryption=none&security=tls&sni=kclx.eu.org&fp=chrome&type=ws&path=%2F154.16.10.34-8080#Sword-saint69
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?sni=kclx.eu.org&type=ws&host=kclx.eu.org&path=/154.16.10.34-8080fp=chrome&security=tls#Sword-saint69
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?encryption=none&fp=firefox&security=tls&sni=mx001.zestapp778.com&type=tcp#Sword-saint69
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?type=raw&security=tls&fp=firefox&sni=mx001.zestapp778.com#Sword-saint69
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?encryption=none&security=tls&type=tcp&sni=mx001.zestapp778.com&fp=chrome#Sword-saint69
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?type=tcp&security=tls&fp=chrome&sni=mx001.zestapp778.com#Sword-saint69
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@mx001.zestapp778.com:19167?security=tls&fp=firefox&sni=mx001.zestapp778.com#Sword-saint69

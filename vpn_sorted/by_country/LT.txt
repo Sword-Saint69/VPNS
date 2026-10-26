@@ -1,4 +1,5 @@
 trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#Sword-saint69
+trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com&fp=chrome#Sword-saint69
 trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#Sword-saint69
 trojan://humanity@88.216.69.253:443?allowInsecure=1&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.pleadcourt.org&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1#Sword-saint69
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@88.216.69.253:443?cs=semi-python&path=%2Fws&security=tls&alpn=http%2F1.1&encryption=none&fm=tlshello-0-len&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Sword-saint69
