@@ -1,3 +1,2 @@
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?encryption=none&extra=null&fp=firefox&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp#Sword-saint69
-vless://7dd69047-047e-422e-a2ba-ed773c34fd1a@flatcrest.net:2053?type=xhttp&security=tls&fp=firefox&sni=flatcrest.net&path=/api/v1/upload&host=flatcrest.net&mode=auto&extra={#Sword-saint69
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&extra=null&fp=chrome&host=randomquaint.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=randomquaint.net&type=xhttp#Sword-saint69
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#Sword-saint69
+vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69

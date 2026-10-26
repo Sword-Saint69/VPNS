@@ -1,2 +1,2 @@
-trojan://50414e45-4c5f-5a45-5553-eb719e39bd09@104.234.239.92:443?path=/stream/PANEL_ZEUS/eb719e39bd09&security=tls&host=hqzxcaeyukms.z2zptsequlds.workers.dev&type=ws&insecure=0&fp=unsafe&allowInsecure=0&sni=hqzxcaeyukms.z2zptsequlds.workers.dev#Sword-saint69
-trojan://50414e45-4c5f-5a45-5553-eb719e39bd09@104.234.239.92:80?path=/stream/PANEL_ZEUS/eb719e39bd09&security=none&host=hqzxcaeyukms.z2zptsequlds.workers.dev&type=ws#Sword-saint69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=/#Sword-saint69
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime08.workers.dev&packetEncoding=xudp#Sword-saint69
