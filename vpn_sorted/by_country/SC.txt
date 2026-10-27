@@ -1,14 +1,8 @@
-trojan://humanity@45.130.125.126:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#Sword-saint69
-trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
-trojan://humanity@45.130.125.190:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#Sword-saint69
-trojan://humanity@45.130.125.69:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Sword-saint69
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Sword-saint69
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#Sword-saint69
+trojan://humanity@45.130.125.160:443?type=ws&path=/assignment&host=www.calmlunch.com#Sword-saint69
 vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=&fp=chrome&spx=%2F&type=tcp&sni=play.googleapis.com&sid=974f7f8f#Sword-saint69
-vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#Sword-saint69
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#Sword-saint69
 vless://fb69a6b9-980c-48c2-a94f-5f95868a2d2a@154.201.73.209:21899?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kvLUYW6fwHXutu8Z4On6mi61kjslCyCc8ErFffUM1D0&sid=dedce016e3671418&sni=yahoo.com#Sword-saint69
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Sword-saint69
-vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjE4NSIsImFpZCI6NjQsImhvc3QiOiJ3d3cuMTU2OTcwNjUueHl6IiwiaWQiOiIwNzhlYjI0ZC04ZDFkLTRmYmQtYjkxNC1lZTU4YTg5N2EzNWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNzA0MzYzMTgyNDkzIiwicG9ydCI6MzEwMDAsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=#Sword-saint69
 vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjY2IiwiYWlkIjo2NCwiaG9zdCI6Ind3dy43MjI4MTE0OS54eXoiLCJpZCI6IjRlYzBhZTYyLWRlMDktNDAyOS05MDRhLTAzMTNkNDYyOGVjZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE3MDQyNzY0NjY3NjAiLCJwb3J0IjozMTAwMCwicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69
+vmess://eyJhZGQiOiJjZjMuOTkyNjg4Lnh5eiIsImFpZCI6MCwiaG9zdCI6ImNmMy45OTI2ODgueHl6IiwiaWQiOiIwZWE2MGViYi02MzJkLTQyMjYtODkzYS1jY2NjMjA1M2RiZjUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69
+vmess://eyJhZGQiOiJjZjMuOTkyNjg4Lnh5eiIsImFpZCI6MCwiaG9zdCI6ImNmMy45OTI2ODgueHl6IiwiaWQiOiJkM2RlZDUwNS1mODlkLTQwNzAtZGFmYS04Mjg4ZmZiYWJkMzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODA4MCwicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69

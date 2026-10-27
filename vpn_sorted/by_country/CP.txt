@@ -1,1 +1,1 @@
-vless://8102891d-7b37-4dc5-8261-9474b59b5c63@188.114.97.6:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=vip.868068.xyz&type=ws&allowInsecure=0&sni=vip.868068.xyz#Sword-saint69
+vless://aaf616f4-5401-471a-b9c9-d2709e8404c9@66.33.22.234:12403?path=/&security=none&encryption=none&type=ws#Sword-saint69
