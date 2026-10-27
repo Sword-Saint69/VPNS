@@ -1,7 +1,2 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#Sword-saint69
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999#Sword-saint69
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#Sword-saint69
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.85:2053?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv1%2Fupload&host=fitindoor.net&sni=fitindoor.net&fp=firefox&headerType=none#Sword-saint69
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=windytrout.net&type=xhttp&allowInsecure=0&sni=windytrout.net#Sword-saint69
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:8443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv1%2Fupload&host=windytrout.net&sni=windytrout.net&fp=firefox&alpn=h2%2Chttp%2F1.1&headerType=none&mode=auto#Sword-saint69
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Sword-saint69
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#Sword-saint69
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=d368b94e275ab080#Sword-saint69
