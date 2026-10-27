@@ -1,1 +1,1 @@
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#Sword-saint69
+vless://75b517db-1f97-4bda-a479-863d988c31a0@64.188.83.188:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=chrome&alpn=http/1.1&type=ws&path=/vless-ws#Sword-saint69
