@@ -1,2 +1,1 @@
-trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@193.36.95.34:443?security=tls&type=ws&host=likejennie.pages.dev&fp=chrome&sni=likejennie.pages.dev&path=%2F&encryption=none#Sword-saint69
 vmess://eyJhZGQiOiIxODUuNDguMTM2LjE1MCIsImFpZCI6MCwiaG9zdCI6InNhemdhcjIyLnphcHRvLm9yZyIsImlkIjoiMTRiYjkyN2YtYTRlYy00ZGU3LTkwZmItMzg4YzFmNjlkYmMxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69
