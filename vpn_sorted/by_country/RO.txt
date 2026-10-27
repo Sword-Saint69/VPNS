@@ -1,7 +1,7 @@
-hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@81.180.93.171:4443?sni=ro.gorobsub.com&security=tls#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#Sword-saint69
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=none&type=tcp&sni=bu2.freeguard.org&allowInsecure=1#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bu2.freeguard.org#Sword-saint69
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#Sword-saint69
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#Sword-saint69
