@@ -1,0 +1,1 @@
+vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&amp;encryption=none&amp;pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=knox.cdn-apple.com&amp;sid=a62d513cd709744a#Sword-saint69
