@@ -1,2 +1,2 @@
-vless://212fe317-771e-458e-af13-7dd2ef11c1d8@ru.datanode-internal.net:443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=openwrt.lan&sid=abbcd128#Sword-saint69
+vless://57ae2ef6-2aef-0002-b0c1-b8c9d4dfc233@5.129.198.223:443?mode=auto&path=/api/v3/updates&security=reality&encryption=none&pbk=MiyOBOmkjV9uSx-oM1Aoq9JgIXKjAgvXceTNgSeBvRk&fp=chrome&type=xhttp&sni=cdn-tw-msk-mishka.attention-game.ru&sid=d8c870848236fa69#Sword-saint69
 vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#Sword-saint69

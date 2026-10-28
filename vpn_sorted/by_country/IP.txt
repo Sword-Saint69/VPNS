@@ -1,2 +1,2 @@
-vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?flow=xtls-rprx-vision&host=washingphonicseatable.solsticedigest.me&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&security=reality&sid=c13c9bd7bd45847d&sni=washingphonicseatable.solsticedigest.me&type=tcp&fp=chrome#Sword-saint69
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#Sword-saint69
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8444?security=tls&sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-uk&fp=safari#Sword-saint69
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc#Sword-saint69
