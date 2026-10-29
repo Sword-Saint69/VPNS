@@ -1,13 +1,6 @@
 vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&path=%2F&host=ccc.010304.xyz#Sword-saint69
 vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz&host=ccc.010304.xyz#Sword-saint69
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353/?type=tcp&encryption=none&flow=&security=tls&sni=in001.zestapp778.com&fp=firefox#Sword-saint69
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#Sword-saint69
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=firefox&security=tls&sni=in001.zestapp778.com&type=tcp#Sword-saint69
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#Sword-saint69
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?encryption=none&security=tls&type=tcp&sni=in001.zestapp778.com&fp=chrome#Sword-saint69
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#Sword-saint69
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=in001.zestapp778.com#Sword-saint69
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#Sword-saint69
-vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjNkVG1Nc2ZwQWxhcUhJN2Iudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWIzMTQ5MGQtMTkwZS00ZWYxLWFmMGEtN2NjYWIzZTdjM2I1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsImhvc3QiOiIzZFRtTXNmcEFsYXFISTdiLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#Sword-saint69
 vmess://eyJhZGQiOiJDT2JwZUZreWp4TlVRQ253LnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6IkNPYnBlRmt5anhOVVFDbncudi4zZG5zLnZpcCIsImlkIjoiYjY2NGNjMzYtNDg5Ni00NTRiLWJiOWMtMTM3N2M3NjE3NmRlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#Sword-saint69
-vmess://eyJhZGQiOiJUbm1YUElGVndmdnlGWnZmLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6IlRubVhQSUZWd2Z2eUZadmYudi4zZG5zLnZpcCIsImlkIjoiYjY2NGNjMzYtNDg5Ni00NTRiLWJiOWMtMTM3N2M3NjE3NmRlIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#Sword-saint69
