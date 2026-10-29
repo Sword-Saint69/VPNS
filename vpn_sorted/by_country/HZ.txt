@@ -1,1 +1,1 @@
-vless://CQ9D5NqEbxPfdg@185.253.116.46:443?security=reality&encryption=none&pbk=RQ4Z91En99W1IloruReNIuqeIY1PHfrd-Unv7XL--jU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=11a7579d#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#Sword-saint69
