@@ -1,2 +1,1 @@
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=none&type=tcp&sni=la.freeguard.org&allowInsecure=1#Sword-saint69
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#Sword-saint69
