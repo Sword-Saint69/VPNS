@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=none&type=tcp&sni=gr.freeguard.org&allowInsecure=1#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#Sword-saint69
 trojan://humanity@212.183.88.136:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#Sword-saint69
@@ -8,3 +9,9 @@ trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?security=none&type=ws&path=%2Fassignment&host=www.calmlunch.com#Sword-saint69
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#Sword-saint69
+vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807&sni=tg-lovers-free.com#Sword-saint69
+vless://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@94.228.162.222:443?allowInsecure=1&sni=vena.solomon-planet.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#Sword-saint69
+vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&security=reality&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com&type=tcp#Sword-saint69
+vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com#Sword-saint69
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?sni=tau1.freerunet.online&flow=xtls-rprx-vision&fp=qq&security=tls#Sword-saint69
+vmess://eyJhZGQiOiI5NC4xNzcuOS42NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMTkzM2E0MjUtMjg0Mi00ZDJiLTg1ODktOWNhMjI0MmQ3NDE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyOTgyNSIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=#Sword-saint69
