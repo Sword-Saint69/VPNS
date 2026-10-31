@@ -1,1 +1,2 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.148.156.160:8443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Sword-saint69
+trojan://humanity@185.146.234.242:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#Sword-saint69
+trojan://humanity@185.146.234.242:443?sni=www.cordweave.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#Sword-saint69
