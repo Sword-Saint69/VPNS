@@ -1,1 +1,1 @@
-hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#Sword-saint69
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@31.76.227.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&security=reality&sid=a7856800c2deb7b2&sni=assets-mi-26.spbstudentlife.com&type=tcp#Sword-saint69
