@@ -1,10 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWkdyOG5MSGRmK0ZFNVpBdzBZL1J6c21sNEF5aWtHTDQ4MVBnN2VCcHNJPQ==@130.49.189.158:43558#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@130.49.189.54:8388#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@130.49.189.54:8388?#Sword-saint69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@130.49.189.54:8388?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#Sword-saint69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388#Sword-saint69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388?#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc3Uxdi8zaU5FUndERFZ3eEN1NTAzM0tDVXFRT29FbFlRdWw2M2ttcUo4PQ==@130.49.189.158:43558#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc3Uxdi8zaU5FUndERFZ3eEN1NTAzM0tDVXFRT29FbFlRdWw2M2ttcUo4PQ@130.49.189.158:43558#Sword-saint69
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#Sword-saint69
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chromesecurity=tls#Sword-saint69
 vless://3de59cd0-f92c-40bf-829c-db7bf6043d1d@130.49.189.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jVNJH18MECOqhciQLa-w7Y7yp3N9IdseIDpgCEu2LhU&security=reality&sid=81785a5f59d66d7d&sni=al.reus.lol&type=tcp#Sword-saint69
+vless://f28ce4eb-62cd-45f5-b3b3-be1c1a95e335@157.22.240.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=yandex.ru&type=tcp#Sword-saint69
+vless://f28ce4eb-62cd-45f5-b3b3-be1c1a95e335@157.22.240.172:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&sni=yandex.ru#Sword-saint69
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#Sword-saint69

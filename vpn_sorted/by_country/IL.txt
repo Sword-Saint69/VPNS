@@ -1,9 +1,8 @@
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=none&type=tcp&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#Sword-saint69
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#Sword-saint69
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.37:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#Sword-saint69
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.57:443?encryption=none&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&security=reality&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&type=tcp#Sword-saint69
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Sword-saint69
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#Sword-saint69
