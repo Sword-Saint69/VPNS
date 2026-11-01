@@ -1,2 +1,2 @@
-trojan://humanity@194.135.119.82:2053?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#Sword-saint69
 trojan://humanity@194.135.119.82:2053?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment&host=www.cordweave.com#Sword-saint69
+vless://9c55c7eb-d53e-40fa-a0c9-e25d2a345073@94.43.238.112:2053?&security=tls&fp=random&sni=jp-osa.862400.xyz&type=ws&headerType=none&host=jp-osa.862400.xyz&path=%2Fannouncement%3Fed%3D2048#Sword-saint69
