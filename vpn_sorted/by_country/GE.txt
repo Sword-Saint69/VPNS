@@ -1,3 +1,2 @@
 trojan://humanity@194.135.119.82:2053?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#Sword-saint69
 trojan://humanity@194.135.119.82:2053?security=tls&sni=www.cordweave.com&type=ws&path=%2Fassignment&host=www.cordweave.com#Sword-saint69
-trojan://humanity@194.135.119.82:2053?sni=www.cordweave.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#Sword-saint69
