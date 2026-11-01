@@ -2,5 +2,5 @@ trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@185.225.68.232:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#Sword-saint69
 trojan://humanity@38.180.225.247:2053?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#Sword-saint69
 trojan://humanity@38.180.225.247:2053?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#Sword-saint69
-vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Sword-saint69
+vless://e71f3fe4-ccfb-464a-895d-41831efe13a9@31.59.195.2:443?security=reality&encryption=none&pbk=VMcVMSPlAAF-OTArEJzhQXxrhgMjZ6ID9VscB0O7mEs&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hu-1-r.124515.xyz&sid=293be8ef78830c16#Sword-saint69
 vmess://eyJhZGQiOiIxODUuMTI4LjI2LjcwIiwiYWlkIjo2NCwiaG9zdCI6Ind3dy45NjQzNzY1OC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInBvcnQiOjQ0MywicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69

@@ -1,11 +1,15 @@
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=none&type=tcp&sni=gr.freeguard.org&allowInsecure=1#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#Sword-saint69
+trojan://humanity@130.49.219.112:443?sni=www.cordweave.com&type=ws&path=%2Fassignment&fp=chrome#Sword-saint69
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2F%252Fassignment&sni=www.calmlunch.com&type=ws#Sword-saint69
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
 trojan://humanity@212.183.88.136:443?security=none&type=ws&path=%2Fassignment&host=www.calmlunch.com#Sword-saint69
+trojan://humanity@85.192.42.198:443?type=ws&path=%2Fassignment&sni=www.cordweave.com#Sword-saint69
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#Sword-saint69
 vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807&sni=tg-lovers-free.com#Sword-saint69
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@66.90.106.228:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=au1.wolffast.net&sid=8718c58d3d51db59#Sword-saint69
 vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&sni=vena.solomon-planet.ru#Sword-saint69
+vless://ce64591a-fe2d-48cd-b738-e5f591eea784@193.233.129.207:443?security=reality&flow=xtls-rprx-vision&fp=random&pbk=X9MDC9_LM2OPqoYPm7VlZ28A4xGDlP43_fEiKjiCAxE&sid=5c9cc38762191124&sni=au4ru.farenheits.pro#Sword-saint69
 vmess://eyJhZGQiOiI5NC4xNzcuOS42NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMTkzM2E0MjUtMjg0Mi00ZDJiLTg1ODktOWNhMjI0MmQ3NDE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyOTgyNSIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=#Sword-saint69
