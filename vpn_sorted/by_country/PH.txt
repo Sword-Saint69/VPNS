@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#Sword-saint69
-trojan://5t6i121em5lkmsmk@130.94.52.157:46298?security=tls&sni=ph001.zestapp778.com&fp=firefox#Sword-saint69
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?allowInsecure=1#Sword-saint69
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=none&type=tcp&sni=ph001.zestapp778.com#Sword-saint69
 trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&headerType=none#Sword-saint69
