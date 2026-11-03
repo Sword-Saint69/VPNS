@@ -1,2 +1,1 @@
 vless://613b64fe-b88d-42db-9d4f-26b8654d4060@91.195.254.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=www.slovarik.xyz&type=tcp#Sword-saint69
-vless://613b64fe-b88d-42db-9d4f-26b8654d4060@slovarik.xyz:443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision#Sword-saint69
