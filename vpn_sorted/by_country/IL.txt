@@ -1,3 +1,4 @@
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=none&type=tcp&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#Sword-saint69
