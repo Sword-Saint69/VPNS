@@ -45,7 +45,9 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=none&type=tcp&sni=api.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&fp=chrome&sni=api.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?headerType=none&insecure=0&security=tls&sni=www.yourultimateprofessionalcareerhub.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp#Sword-saint69
@@ -57,6 +59,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&fp=chro
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=none&type=tcp&sni=learn.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&headerType=none&type=tcp&sni=learn.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&sni=learn.yourultimateprofessionalcareerhub.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=none&type=tcp&sni=courses.yourultimateprofessionalcareerhub.com&fp=chrome#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?security=tls&fp=chrome&sni=courses.yourultimateprofessionalcareerhub.com#Sword-saint69
@@ -67,6 +70,9 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.60:443?sni=cdn.yourultimatep
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&type=tcp#Sword-saint69
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#Sword-saint69
 vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=19253fae84102271&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY#Sword-saint69
+vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=firefox&security=tls#Sword-saint69
+vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&fp=chrome#Sword-saint69
+vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=s3-fi-1.rucdn777.com&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&fp=firefox#Sword-saint69
 vless://6f34a071-9a87-001e-b01a-4b5a5c95e552@144.31.129.174:443?sni=s3-fi-1.rucdn777.com&flow=xtls-rprx-vision&fp=firefox&security=tls#Sword-saint69
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&alpn=h2http%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#Sword-saint69
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?type=tcp&security=tls&fp=chrome&sni=portal.mavexa.ir#Sword-saint69

@@ -3,4 +3,6 @@ trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=none&ty
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#Sword-saint69
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=none&type=tcp&sni=tr-wien.unlimited-access.ru&fp=firefox#Sword-saint69
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#Sword-saint69
+vless://04cbe9ea-9791-4195-827f-5d4cabbdba10@95.163.153.141:8443?encryption=none&type=xhttp&security=reality&pbk=bRtDyXYrSK7YP6zKZGTUIVfNlpilQViJ4ih_43oSWnU&sid=c9ea2355ddeab39b&sni=www.cloudflare.com&fp=chrome#Sword-saint69
+vless://610ac982-04eb-34c0-80b1-5dd3c2ca131e@201.10.90.113:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6z3VlbF2v0C3FTWQQemYDxX-MIzwaz_k8_B-xyc0Xyg&security=reality&sni=undef-aut-0.undef.network&type=tcp#Sword-saint69
 vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?sni=tau1.freerunet.online&flow=xtls-rprx-vision&fp=firefox&security=tls#Sword-saint69
