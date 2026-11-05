@@ -48,13 +48,16 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1ANzkuMTI3LjE4NC4xMDQ6MTk5OTk#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=none&type=tcp&sni=api.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&fp=chrome&sni=api.yourultimateprofessionalcareerhub.com#Sword-saint69
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?headerType=none&insecure=0&security=tls&sni=www.yourultimateprofessionalcareerhub.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=none&type=tcp&sni=resources.yourultimateprofessionalcareerhub.com#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&sni=resources.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&type=tcp#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=none&type=tcp&sni=yourultimateprofessionalcareerhub.com&fp=chrome#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&fp=chrome&sni=yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=none&type=tcp&sni=learn.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#Sword-saint69
@@ -73,6 +76,7 @@ vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt
 vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#Sword-saint69
 vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@45.59.124.39:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=safari&type=ws&path=%2F&host=u.srilankangrill.online#Sword-saint69
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#Sword-saint69
+vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&fp=firefox&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#Sword-saint69
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=firefox&path=%2F&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#Sword-saint69
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=random&host=www.apple.com&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#Sword-saint69
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#Sword-saint69
