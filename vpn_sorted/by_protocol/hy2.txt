@@ -1,10 +1,8 @@
-hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=css.rbxcdn.com#Sword-saint69
 hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=off#Sword-saint69
 hy2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@d344b3c7-tmm5c0-txkkcl-1fli7.hk3.hyhuawei.com:443#Sword-saint69
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1#Sword-saint69
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=132.226.226.189#Sword-saint69
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=off#Sword-saint69
-hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#Sword-saint69
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#Sword-saint69
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=138.3.208.26#Sword-saint69
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=off#Sword-saint69
@@ -12,6 +10,7 @@ hy2://19dd9c70-e4a5-11ed-8347-f23c9164ca5d@24f1571a-tmm5c0-tug19l-1go3q.hk3.hyhu
 hy2://19dd9c70-e4a5-11ed-8347-f23c9164ca5d@273d1420-tmm5c0-tug19l-1go3q.nw4.hyhuawei.com:443#Sword-saint69
 hy2://19dd9c70-e4a5-11ed-8347-f23c9164ca5d@a436bbe7-tmm5c0-tug19l-1go3q.los.hyhuawei.com:443#Sword-saint69
 hy2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?insecure=1#Sword-saint69
+hy2://1cce7df2-251c-11ee-9409-f23c9164ca5d@633b0024-tmm5c0-ttx5yr-1j0y6.hk3.hyhuawei.com:443#Sword-saint69
 hy2://1cce7df2-251c-11ee-9409-f23c9164ca5d@7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhuawei.com:443#Sword-saint69
 hy2://1cce7df2-251c-11ee-9409-f23c9164ca5d@a30d91ee-tmm5c0-ttx5yr-1j0y6.nw4.hyhuawei.com:443#Sword-saint69
 hy2://203d1d64-3313-11ed-bb74-f23c9164ca5d@95691df5-tmm5c0-trpvht-1ey07.hk3.hyhuawei.com:443#Sword-saint69
@@ -21,7 +20,6 @@ hy2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@95358662-tmm5c0-tphvvu-gacy.hk3.hyhua
 hy2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com:443#Sword-saint69
 hy2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@d0f180c2-tmm5c0-tphvvu-gacy.nw4.hyhuawei.com:443#Sword-saint69
 hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443#Sword-saint69
-hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?#Sword-saint69
 hy2://28213b50-7ed5-11ee-add6-f23c91369f2d@f7f4da49-tmm5c0-tqgocx-1plv4.hk3.hyhuawei.com:443#Sword-saint69
 hy2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhuawei.com:443#Sword-saint69
 hy2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443#Sword-saint69
@@ -34,10 +32,10 @@ hy2://367e233c-2f54-11ee-9ae1-f23c9164ca5d@3226c07a-tmm5c0-u093mf-1mina.nw4.hyhu
 hy2://367e233c-2f54-11ee-9ae1-f23c9164ca5d@39c981a4-tmm5c0-u093mf-1mina.hk3.hyhuawei.com:443#Sword-saint69
 hy2://367e233c-2f54-11ee-9ae1-f23c9164ca5d@7498a61c-tmm5c0-u093mf-1mina.los.hyhuawei.com:443#Sword-saint69
 hy2://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com:443#Sword-saint69
+hy2://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@4d216440-tmm5c0-u4ai7k-z7a1.hk3.hyhuawei.com:443#Sword-saint69
 hy2://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@16113553-tmm5c0-twuk0i-1hzyr.nw4.hyhuawei.com:443#Sword-saint69
 hy2://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@9969bb96-tmm5c0-twuk0i-1hzyr.hk3.hyhuawei.com:443#Sword-saint69
 hy2://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@b8c1a181-tmm5c0-twuk0i-1hzyr.los.hyhuawei.com:443#Sword-saint69
-hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#Sword-saint69
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=off#Sword-saint69
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=vk.com#Sword-saint69
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=www.bing.com#Sword-saint69
@@ -50,6 +48,7 @@ hy2://40e084d6-0316-11f0-90e2-f23c913c8d2b@ddfd0b64-tmm5c0-u0aht1-1rz5s.nw4.hyhu
 hy2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com:443#Sword-saint69
 hy2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com:443?insecure=1&sni=0c8a39e2-tmkao0-tqsp0c-1imi4.sg7.hyhuawei.com#Sword-saint69
 hy2://41edb44c8e@103.88.243.142:11592?insecure=1&sni=103.88.243.142#Sword-saint69
+hy2://41edb44c8e@103.88.243.142:11592?insecure=1&sni=srv-17e124.21freedom.net#Sword-saint69
 hy2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1#Sword-saint69
 hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1#Sword-saint69
 hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=129.213.91.185#Sword-saint69
@@ -93,7 +92,6 @@ hy2://91df5a86-fcdd-11ef-94aa-f23c913c8d2b@50b839ae-tmm5c0-tuklme-ueq.hk3.hyhuaw
 hy2://92bd8c68-6434-11ee-b644-f23c91cfbbc9@88f7008b-tmm5c0-tonrqx-1khwf.nw4.hyhuawei.com:443#Sword-saint69
 hy2://94d40708-8273-11ea-8fc9-f23c913c8d2b@6d889de6-tly2o0-tn28ki-mv7m.nw4.hyhuawei.com:443#Sword-saint69
 hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#Sword-saint69
-hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?#Sword-saint69
 hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1#Sword-saint69
 hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1&sni=vp3.yysyy.online#Sword-saint69
 hy2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@35172c9b-tmm5c0-u10a65-1os43.los.hyhuawei.com:443#Sword-saint69
@@ -113,13 +111,11 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=t.me#Sword-sain
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&sni=vpn-fr-001.fastervpn.world#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1#Sword-saint69
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=127.0.0.1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=160.187.100.109#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=off#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&sni=vpn-de-002.fastervpn.world#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=off#Sword-saint69
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=t.me#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=google.com#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%25253a%25252f%25252ft.me%25252fwangcai2%2525d1%252580%2525d2%2525b9%2525d2%2525af%2525d1%252591%2525d1%252580%2525d2%2525b9%2525d2%2525af%2525d1%252596#Sword-saint69
@@ -136,9 +132,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=off#Sword-saint
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=t.me#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=whatsapp.com#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#Sword-saint69
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&sni=127.0.0.1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&sni=vpn-de-002.fastervpn.world#Sword-saint69
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&sni=3.76.221.4#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=off#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=t.me#Sword-saint69
@@ -149,7 +143,6 @@ hy2://HowdyHysteria2023w0W@51.15.19.206:8443?obfs=salamander&obfs-password=Hyste
 hy2://M2NbFywBXjS9Ova8SgqRrQkp@178.17.58.55:443?sni=de-tg.fastlanehosting.ru#Sword-saint69
 hy2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#Sword-saint69
 hy2://STYyftThFn@freedom.chenlan.top:12765#Sword-saint69
-hy2://STYyftThFn@freedom.chenlan.top:12765?#Sword-saint69
 hy2://a2313fba-74a6-11ed-a8bf-f23c91cfbbc9@7b0450c8-tmm5c0-trg4wh-z65w.hk3.hyhuawei.com:443#Sword-saint69
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@8a24f231-tmm5c0-tujecz-1qkeg.nw4.hyhuawei.com:443#Sword-saint69
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@fl3.nexfile.net:4444#Sword-saint69
@@ -176,13 +169,13 @@ hy2://c1785de0-212f-11ef-92aa-f23c9164ca5d@71db9f3f-tmm5c0-tyn7s3-1q3dm.nw4.hyhu
 hy2://c3a8753e-317e-479e-bee7-01adf5e2af7e@fre.guren1.me:8443#Sword-saint69
 hy2://d095ecc6-7b69-11eb-b77b-f23c913c8d2b@b85c7e2f-tmm5c0-tvk1qn-19les.nw4.hyhuawei.com:443#Sword-saint69
 hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443#Sword-saint69
-hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?#Sword-saint69
 hy2://d62s7ghfehm742us@derfderf.ru:12824#Sword-saint69
-hy2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru#Sword-saint69
 hy2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@1ba94b4c-tmm5c0-tw661e-1isea.los.hyhuawei.com:443#Sword-saint69
+hy2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@aac08668-tmm5c0-tw661e-1isea.hk3.hyhuawei.com:443#Sword-saint69
 hy2://d6abdbda-fe9d-11ec-bb74-f23c9164ca5d@aac08668-tmm5c0-tw661e-1isea.hk3.hyhuawei.com:443?sni=aac08668-tmm5c0-tw661e-1isea.hk3.hyhuawei.com#Sword-saint69
 hy2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@05a33aa3-tmm5c0-tzzpok-1sllg.hk3.hyhuawei.com:443?#Sword-saint69
 hy2://d6e1207c-f41a-11ef-9495-f23c91cfbbc9@85e1018a-tmm5c0-tzzpok-1sllg.los.hyhuawei.com:443#Sword-saint69
+hy2://df900182-2d2f-4765-9619-03a6ea3bba71@edge1.streamnodecdn.com:443#Sword-saint69
 hy2://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@2219f493-tmm5c0-tpftcp-13x18.nw4.hyhuawei.com:443#Sword-saint69
 hy2://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@4dfe79ca-tmm5c0-tpftcp-13x18.hk3.hyhuawei.com:443#Sword-saint69
 hy2://e4499a62-0cfe-11eb-ad8c-f23c9164ca5d@53edf574-tmm5c0-tpftcp-13x18.los.hyhuawei.com:443#Sword-saint69
@@ -205,9 +198,6 @@ hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1#Sword-saint69
 hy2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=speedtest.tinkoff.ru#Sword-saint69
 hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#Sword-saint69
 hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=vk.com#Sword-saint69
-hy2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1&sni=66.94.121.46#Sword-saint69
-hy2://gf1:gfhysteria2024@185.156.44.99:443?insecure=1&sni=css.rbxcdn.com#Sword-saint69
-hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#Sword-saint69
 hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?allowInsecure=1&downmbps=50&insecure=1&sni=css.rbxcdn.com&type=tcp&upmbps=10#Sword-saint69
 hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=%E2%80%A6#Sword-saint69
 hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=62.210.7.139#Sword-saint69
