@@ -1,0 +1,2 @@
+vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#Sword-saint69
+vless://891300bc-11b2-4b24-8056-b329b098888b@borik-crash.org:443?security=reality&encryption=none&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=readthedocs.org&sid=a1590469acbe31#Sword-saint69

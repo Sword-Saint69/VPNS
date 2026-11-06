@@ -1,2 +1,1 @@
-vless://3aeaf569-ee36-4e53-b4e6-72275a596ff5@138.124.252.160:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=max.qikbro.com&type=tcp#Sword-saint69
-vless://3aeaf569-ee36-4e53-b4e6-72275a596ff5@max.qikbro.com:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=max.qikbro.com#Sword-saint69
+ss://YWVzLTEyOC1nY206NDk5ZWIxMzEtZjJiOC00NmI1LThmZDAtMTA4YzM3NWVkNTI1@ruot.ayucloudservices.nl:35200#Sword-saint69
