@@ -1,2 +1,1 @@
-trojan://af4b064a9c39472fb34ad8b113acdc6b@38.180.173.150:443?sni=38.180.173.150&type=tcp#Sword-saint69
-vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjIzLjIyNy42MC4xNjMiLCJwb3J0IjoiODQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjdiMWMwZmEzLTI4NzAtNGQzOC1iOWI5LWY5ZjIwYmU2YTcxMCIsInNuaSI6ImZyZWUuc29oZXlsdjJyYXkuc2l0ZSIsImhvc3QiOiJmcmVlLnNvaGV5bHYycmF5LnNpdGUiLCJwYXRoIjoiL25naW54NTUxMS8ifQ==#Sword-saint69
+vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#Sword-saint69

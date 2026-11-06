@@ -1,13 +1,9 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#Sword-saint69
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#Sword-saint69
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=none&type=tcp&sni=gr.freeguard.org&allowInsecure=1#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#Sword-saint69
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=none&type=tcp&sni=tr-wien.unlimited-access.ru&fp=firefox#Sword-saint69
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#Sword-saint69
-vless://1d690248-024b-4923-aab2-0abebe0688d3@2.59.21.105:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DdeYmAAHysQ_rMekhalJu0_u_Hc2D9j1pKfvSFFjfGM&security=reality&sni=stream.fotaku.xyz&type=tcp#Sword-saint69
-vless://1d690248-024b-4923-aab2-0abebe0688d3@2.59.21.105:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DdeYmAAHysQ_rMekhalJu0_u_Hc2D9j1pKfvSFFjfGM&fp=qq&type=tcp&sni=stream.fotaku.xyz#Sword-saint69
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=at1.japancase.site&type=raw#Sword-saint69
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?&security=reality&flow=xtls-rprx-vision&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&fp=chrome&sni=at1.japancase.site&type=tcp&headerType=none&host=at1.japancase.site&path=%2F#Sword-saint69
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=at1.japancase.site#Sword-saint69
