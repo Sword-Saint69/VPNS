@@ -5,3 +5,6 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=none&type=
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#Sword-saint69
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@64.177.66.9:8443?security=tls&type=ws&path=%2Fevents%2Fclassfp%3Dchrome&host=vp7.1145678.xyz&packetEncoding=xudp&sni=vp7.1145678.xyz&fp=chrome#Sword-saint69
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@64.177.66.9:8443?type=ws&security=tls&fp=chrome&sni=vp7.1145678.xyz&host=vp7.1145678.xyz#Sword-saint69
+vless://94042dd1-d32a-4797-b88c-dc48459e2b34@79.182.39.121:443?encryption=none&fp=firefox&host=aaf9a7x.de18.h1clayd.click&path=/9e6c99f913ef&pbk=JxuqY729RxyPX7D1cZigwHUYbkSPIx2H7vNTcrj4VBs&security=reality&sid=19a70eda3a2416cb&sni=aaf9a7x.de18.h1clayd.click&type=xhttp#Sword-saint69
