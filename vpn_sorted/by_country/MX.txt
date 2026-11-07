@@ -1,10 +1,10 @@
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#Sword-saint69
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=none&type=tcp&sni=connectwithtopemployersandfindidealjobs.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp#Sword-saint69
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@131.196.254.151:443?security=tls&type=ws&host=likejennie.pages.dev&fp=chrome&sni=likejennie.pages.dev&path=%2F&encryption=none#Sword-saint69
 vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=/&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&security=reality&sni=www.apple.com&type=tcp#Sword-saint69
 vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&encryption=none&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#Sword-saint69
 vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&encryption=none#Sword-saint69

@@ -1,1 +1,1 @@
-trojan://humanity@185.112.249.201:8443?type=ws&security=tls&path=%2Fassignment&sni=www.cordweave.com&fp=chrome#Sword-saint69
+vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@be5faex.de9.h1clayd.click:443?encryption=none&mode=auto&path=%2Ffcbe41be11cb&pbk=yO4py2ltxx3eqzeTeNUZvNvTClHAIf8vWT1BJtVEgRg&security=reality&sid=bead219b05a63ae6&sni=be5faex.de9.h1clayd.click&spx=%2F&type=xhttp&fp=ios#Sword-saint69

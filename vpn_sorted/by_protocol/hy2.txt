@@ -15,6 +15,7 @@ hy2://1cce7df2-251c-11ee-9409-f23c9164ca5d@7be5fe79-tmm5c0-ttx5yr-1j0y6.los.hyhu
 hy2://1cce7df2-251c-11ee-9409-f23c9164ca5d@a30d91ee-tmm5c0-ttx5yr-1j0y6.nw4.hyhuawei.com:443#Sword-saint69
 hy2://203d1d64-3313-11ed-bb74-f23c9164ca5d@95691df5-tmm5c0-trpvht-1ey07.hk3.hyhuawei.com:443#Sword-saint69
 hy2://203d1d64-3313-11ed-bb74-f23c9164ca5d@971746e8-tmm5c0-trpvht-1ey07.nw4.hyhuawei.com:443#Sword-saint69
+hy2://203d1d64-3313-11ed-bb74-f23c9164ca5d@fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com:443#Sword-saint69
 hy2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@95358662-tmm5c0-tphvvu-gacy.hk3.hyhuawei.com:443#Sword-saint69
 hy2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com:443#Sword-saint69
 hy2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@d0f180c2-tmm5c0-tphvvu-gacy.nw4.hyhuawei.com:443#Sword-saint69
@@ -26,6 +27,7 @@ hy2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@fc6ffc71-tmm5c0-ts3rye-mrtr.hk3.hyhua
 hy2://2bc6428196efb899f544d750bea0c06d@promo2.betust.net:443#Sword-saint69
 hy2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@a91af2af-tmm5c0-twnp5a-ahsb.hk3.hyhuawei.com:443#Sword-saint69
 hy2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@c39e9624-tmm5c0-twnp5a-ahsb.nw4.hyhuawei.com:443#Sword-saint69
+hy2://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2486.wagahaha.xyz:443?sni=u695098u04af05e4s2473.xxti.top#Sword-saint69
 hy2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@24407910-tmm5c0-trnd2c-jjv2.los.hyhuawei.com:443#Sword-saint69
 hy2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@c58136f7-tmm5c0-trnd2c-jjv2.nw4.hyhuawei.com:443#Sword-saint69
 hy2://367e233c-2f54-11ee-9ae1-f23c9164ca5d@3226c07a-tmm5c0-u093mf-1mina.nw4.hyhuawei.com:443#Sword-saint69
@@ -89,6 +91,7 @@ hy2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@3eb19e9f-tmm5c0-u10a65-1os43.hk3.hyhu
 hy2://96c798f6-4645-11ee-b8a1-f23c9164ca5d@d83f22ac-tmm5c0-u10a65-1os43.nw4.hyhuawei.com:443#Sword-saint69
 hy2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@ea01572c-tmm5c0-tnhx9s-1rnrp.los.hyhuawei.com:443#Sword-saint69
 hy2://9bfd0dde-957e-11ec-a8bf-f23c91cfbbc9@10839548-tmm5c0-ttyyk7-1h0r9.nw4.hyhuawei.com:443#Sword-saint69
+hy2://9d80dd14-ac44-11ee-a116-f23c9164ca5d@92e6c9f0-tmm5c0-twjnjx-1q9g2.hk3.hyhuawei.com:443#Sword-saint69
 hy2://9d80dd14-ac44-11ee-a116-f23c9164ca5d@b2535a8d-tmm5c0-twjnjx-1q9g2.los.hyhuawei.com:443#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1#Sword-saint69
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=103.115.109.49#Sword-saint69
