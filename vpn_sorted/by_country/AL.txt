@@ -1,8 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ@130.49.189.158:43558#Sword-saint69
-vless://380fc46b-28cb-41a8-9879-38a898ab05d0@157.22.240.124:443?encryption=none&fp=firefox&security=tls&sni=call.meettech.org&type=xhttp#Sword-saint69
-vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@157.22.240.159:443?alpn=h2&host=alb.play-cat.uk&mode=stream-one&path=%2Fstatic%2Fjs%2Fchunk&security=tls&sni=alb.play-cat.uk&type=xhttp&fp=chrome#Sword-saint69
-vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@alb.play-cat.uk:443?alpn=h2&encryption=none&host=alb.play-cat.uk&mode=stream-one&path=%2Fstatic%2Fjs%2Fchunk&security=tls&sni=alb.play-cat.uk&type=xhttp&fp=chrome#Sword-saint69
+vless://293c982c-7d4e-44ac-bb11-72eacee55cd3@157.22.240.224:443?encryption=none&fp=firefox&host=altra.qikbro.com&path=/assets/js/app.2ba1396c.js&pbk=4u0r-1AewRpOQOJuezX8VMSLkspgm2C_wxVLcUd_xWo&security=reality&sid=49a886a8e72becf5&sni=altra.qikbro.com&type=xhttp#Sword-saint69
+vless://380fc46b-28cb-41a8-9879-38a898ab05d0@157.22.240.124:443?encryption=none&security=tls&sni=call.meettech.org&fp=safari&alpn=h2&type=xhttp&path=%2F&mode=auto#Sword-saint69
+vless://380fc46b-28cb-41a8-9879-38a898ab05d0@157.22.240.124:443?type=xhttp&security=tls&sni=call.meettech.org&fp=safari&alpn=h2&mode=auto&allowInsecure=1&encryption=none#Sword-saint69
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.227:443?encryption=none&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&security=reality&sid=ba2a3dce62b99092&sni=04535dt.us9.h1clayd.click&type=tcp#Sword-saint69
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?encryption=none&fp=firefox&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&security=reality&sid=361d0dd59c70516f&sni=5d0319t.nl7.h1clayd.click&type=tcp#Sword-saint69
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#Sword-saint69
+vless://f2917208-c70b-459e-9ca3-e9cda431c867@157.22.240.224:443?encryption=none&fp=firefox&host=altra.qikbro.com&path=/assets/js/app.2ba1396c.js&pbk=4u0r-1AewRpOQOJuezX8VMSLkspgm2C_wxVLcUd_xWo&security=reality&sid=49a886a8e72becf5&sni=altra.qikbro.com&type=xhttp#Sword-saint69
 vless://iCaYLyqSFgn5Nt@157.22.240.50:443?security=reality&encryption=none&pbk=XMvZvBbY8rIlWFNGB6IDzDOf-xBPm4737KN9weKltBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ovhcloud.com&sid=f5bce2ac#Sword-saint69
