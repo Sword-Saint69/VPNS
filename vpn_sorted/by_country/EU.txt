@@ -1,1 +1,1 @@
-vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?encryption=none&host=metrics.api.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fa901ed17102fc3090ca1ab052c672f47&security=tls&sni=metrics.api.downloader-pet.xyz&type=ws&fp=ios#Sword-saint69
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#Sword-saint69

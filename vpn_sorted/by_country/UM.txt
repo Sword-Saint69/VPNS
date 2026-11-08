@@ -1,1 +1,4 @@
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69
+vless://273e9057-8167-4d17-8de3-d44c82037cda@188.114.98.0:2083?path=/&security=tls&encryption=none&insecure=0&host=old-sky-2b90.seyowkclient.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=old-sky-2b90.seyowkclient.workers.dev#Sword-saint69
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#Sword-saint69
+vless://c26fe2f0-5c69-000B-8a1a-bf116ceb9215@c-1.mrcloudi.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=jsv-p-de1.donick.ir#Sword-saint69
