@@ -1,1 +1,2 @@
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@fi-92-10.cdn-lab.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fi-92-10.cdn-lab.online&pbk=uGtQk4urIy_ZLpplfmw4cEwMJL6nL7sqJPr1tJxnmw8&sid=e9346d3ee07ff914&fp=firefox#Sword-saint69
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@194.36.37.206:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=am-ufo.maxleshax.icu&pbk=Phkz6QXNlkLU9k5oHL0iixjHnuLvxERtVdFQmGL13xc&sid=02e2863821229dfc&fp=firefox#Sword-saint69
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@194.36.37.206:8443?encryption=none&type=grpc&security=reality&sni=am-ufo.maxleshax.icu&pbk=WZdKJZT1b9Q6clmzZF3KgeNTp7Tknfk-GP-XcUuo5E4&sid=cc41ec72352c5859&fp=firefox&serviceName=platina#Sword-saint69
