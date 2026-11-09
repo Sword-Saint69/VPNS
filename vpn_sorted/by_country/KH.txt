@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.87:990#Sword-saint69
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.215.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=remote.propaint.cl&fp=ios&pbk=is-86tEDOjNbNAnVwc-YHHYSn1MF9SF68P6VjESfDHQ&sid=a2fcac&type=tcp&headerType=none#Sword-saint69
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.215.254:443?security=reality&encryption=none&pbk=is-86tEDOjNbNAnVwc-YHHYSn1MF9SF68P6VjESfDHQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=remote.propaint.cl&sid=a2fcac#Sword-saint69

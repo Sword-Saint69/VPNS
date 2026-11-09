@@ -1,1 +1,1 @@
-vless://ec43c5d5-b6f9-4077-95cf-1450abf48441@m3-production-fa8d.up.railway.app:443?path=/vless&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=m3-production-fa8d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=m3-production-fa8d.up.railway.app#Sword-saint69
+vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.245.94:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=rohamhaaaavista.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Sword-saint69
