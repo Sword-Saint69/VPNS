@@ -1,1 +1,1 @@
-vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.45.6:8080?type=ws&host=free.nadun.store&path=/#Sword-saint69
+vless://0ef68b97-f878-4cea-b756-c56ea3632851@news.zoom.us:2087?sni=free.vkehi.store&alpn=http/1.1&type=ws&host=free.vkehi.store&path=/fp=chrome&security=tls#Sword-saint69
