@@ -18,6 +18,7 @@ vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?path=%2Fvless&security=none&type=ws#Sword-saint69
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?sni=95.128.71.79&type=ws&host=95.128.71.79&path=/vless#Sword-saint69
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#Sword-saint69
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?flow=xtls-rprx-vision&fp=safari&host=ads.x5.ru&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#Sword-saint69
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#Sword-saint69
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?&security=false&fp=chrome&type=ws&headerType=none&host=178.172.227.228&path=%2Fvless#Sword-saint69
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?path=%2Fvless&security=none&type=ws#Sword-saint69

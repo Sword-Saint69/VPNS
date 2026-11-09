@@ -1,8 +1,8 @@
 trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp#Sword-saint69
-vless://042bec60-62d7-4148-a0da-5709ae3ee5a6@h9vr4viw.apruxdomain.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bg1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=edge#Sword-saint69
 vless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@104.253.216.227:443?sni=www.mozilla.org&flow=xtls-rprx-vision&fp=firefox&security=tls#Sword-saint69
 vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=androidsecurity=tls#Sword-saint69
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?sni=www.bing.com&flow=xtls-rprx-vision&fp=chrome&security=tls#Sword-saint69
+vless://7592ca5c-b352-4562-8856-a9c936a3331b@h9vr4viw.apruxdomain.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bg1.hat.onl&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=edge#Sword-saint69
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#Sword-saint69
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&fp=chrome&headerType=none&path=/&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&security=reality&sid=d8b58872&sni=www.cloudflare.com&type=tcp#Sword-saint69
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#Sword-saint69
