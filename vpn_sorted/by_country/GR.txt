@@ -1,8 +1,13 @@
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@85.90.197.156:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#Sword-saint69
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@85.90.197.238:443?type=tcp&security=reality&sni=eu31.cdn77.icu&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#Sword-saint69
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu31.cdn77.icu:443?encryption=none&type=tcp&security=reality&sni=eu31.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#Sword-saint69
+vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&security=reality&sid=94acb54627612d43&sni=www.cloudflare.com&type=raw#Sword-saint69
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&allowInsecure=1#Sword-saint69
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?security=tls&sni=fs.qicai99.com&type=ws&path=%2Ffp%3Dchromesecurity%3Dtls&host=fs.qicai99.com#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#Sword-saint69
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?security=tls&sni=fs.qicai99.com&type=ws&path=%2Ffp%3Dchromesecurity%3Dtls&host=fs.qicai99.com#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#Sword-saint69
