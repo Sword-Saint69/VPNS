@@ -1,1 +1,1 @@
-vless://5aafc2be-9348-4dec-b896-f4a91253bbca@202.37.33.80:443?path=/id-tksi?ed=2048&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Sword-saint69
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:55419?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4-zwh3OxBO8mnUu0G9nEAP56veE-F6-wzF87hNLOIyY&security=reality&sid=2f745f3c3c&sni=api.adidas.com&type=tcp#Sword-saint69

@@ -1,3 +1,4 @@
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@89.147.111.185:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#Sword-saint69
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@95.133.166.163:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#Sword-saint69
 vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&encryption=none&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=06#Sword-saint69
-vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&packetEncoding=xudp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo&encryption=none#Sword-saint69
 vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#Sword-saint69

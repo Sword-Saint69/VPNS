@@ -1,1 +1,5 @@
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@85.90.197.238:443?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu31.cdn77.icu&type=tcp#Sword-saint69
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu31.cdn77.icu:443?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&sni=eu31.cdn77.icu#Sword-saint69
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&allowInsecure=1#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#Sword-saint69
