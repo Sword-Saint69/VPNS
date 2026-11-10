@@ -1,3 +1,5 @@
-vless://17923e69-98e0-4952-a599-9c848c1b8ffe@185.147.27.23:30128?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=e2MstqAwJPKVzfqzqkji8g2kkG2vqfXbachwBlbFmGc&security=reality&sid=800a19d2ca8f8040&sni=hu1.hat.onl&type=tcp#Sword-saint69
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#Sword-saint69
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chromesecurity=tls#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.180.225.247:2053?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@38.180.225.247:2053?security=tls&type=ws&path=%2Ffp%3Dchrome&host=fs.qicai99.com&packetEncoding=xudp&sni=fs.qicai99.com&fp=chrome#Sword-saint69
 vmess://eyJhZGQiOiIxODUuMTI4LjI2LjcwIiwiYWlkIjo2NCwiaG9zdCI6Ind3dy45NjQzNzY1OC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInBvcnQiOjQ0MywicHMiOiJTd29yZC1zYWludDY5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==#Sword-saint69

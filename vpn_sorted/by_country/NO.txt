@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Sword-saint69
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@85.11.187.69:8443?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu93.cdn77.icu&type=tcp#Sword-saint69
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu93.cdn77.icu:8443?type=tcp&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu93.cdn77.icu#Sword-saint69
-vless://7592ca5c-b352-4562-8856-a9c936a3331b@31.76.5.79:443?encryption=none&fp=firefox&security=tls&serviceName=live.yejssizh1kjrn.chunk-9828.m4s&sni=r2q24xzokp4.hat.onl&type=grpc#Sword-saint69
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@85.11.187.69:8443?type=tcp&security=reality&sni=eu93.cdn77.icu&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=#Sword-saint69
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu93.cdn77.icu:8443?encryption=none&type=tcp&security=reality&sni=eu93.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@185.14.97.242:8443?security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@185.14.97.242:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#Sword-saint69
 vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&security=reality&sid=11979c0c9b2da371&sni=thumbs.mycdn-io.ru&spx=%2F&type=tcp&fp=firefox#Sword-saint69
-vmess://eyJhZGQiOiI0Ni4yOS4yMTguODQiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9#Sword-saint69
