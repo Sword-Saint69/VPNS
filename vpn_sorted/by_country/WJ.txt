@@ -1,1 +1,1 @@
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?security=reality&amp;encryption=none&amp;pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tesla.com&amp;sid=bb82c8#Sword-saint69
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.44.24.25:51279?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ…#Sword-saint69

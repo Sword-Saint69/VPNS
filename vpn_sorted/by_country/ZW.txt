@@ -1,1 +1,1 @@
-vless://24b84bd3-baa3-4192-9625-23c9690ae6f6@31.76.39.253:443?security=reality&encryption=none&pbk=Hbbi45lhaIjHmcZoXD84dVlGhHnVOTM8LvC3_kh3dis&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eng.jokervpn.space&sid=ff3f36afdec470#Sword-saint69
+vless://f30a9b1c-5710-4cf1-8a60-5b34e4b2473c@172.67.221.237:2052?path=/wss&security=&encryption=none&host=nexomobile.netvia.ir&type=httpupgrade#Sword-saint69

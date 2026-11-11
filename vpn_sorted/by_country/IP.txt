@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjExNi44OC4yMjQuMjE3IiwicG9ydCI6IjgwODAiLCJpZCI6IjZmNGYwZWI1LWZlODYtNDFjYS1lY2NiLWE2Y2E2OGY4OGQ5YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9#Sword-saint69
+vless://aa8d7bf2-26e2-46bb-ac3b-33a932d26cb3@95.182.121.9:443?security=tls&sni=va.stream-room.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#Sword-saint69

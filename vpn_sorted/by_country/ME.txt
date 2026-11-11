@@ -1,6 +1,1 @@
-trojan://humanity@31.57.190.40:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
-trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#Sword-saint69
-trojan://humanity@31.57.190.89:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fassignment&host=www.pleadcourt.org#Sword-saint69
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#Sword-saint69
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#Sword-saint69
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#Sword-saint69
+vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.104:2083?security=reality&encryption=none&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=/&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253#Sword-saint69
