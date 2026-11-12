@@ -1,1 +1,1 @@
-tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?congestion_control=bbr&sub_tag=M002-260618&udp=true&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&alpn=h3&udp_relay_mode=native#Sword-saint69
+tuic://e511bd2b-d8ef-4439-bd3b-c78f739dcbbb:e511bd2b-d8ef-4439-bd3b-c78f739dcbbb@51.81.223.166:10443?allowInsecure=1&alpn=h3&congestion_control=bbr&udp_relay_mode=native#Sword-saint69
