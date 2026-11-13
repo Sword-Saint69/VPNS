@@ -1,2 +1,3 @@
-vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=firefox#Sword-saint69
-vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=qq#Sword-saint69
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=android#Sword-saint69
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=ios#Sword-saint69
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=random#Sword-saint69
