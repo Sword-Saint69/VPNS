@@ -1,3 +1,2 @@
-vless://90157e25-cee1-4217-921e-91f300bc1a24@31.177.111.121:443?security=tls&sni=100gramm.pro&alpn=http%2F1.1&type=ws&host=100gramm.pro&path=%2Fservice%2Ftelemetry%2F44fc835751aa%2F&fp=edge#Sword-saint69
-vless://90157e25-cee1-4217-921e-91f300bc1a24@31.177.111.121:443?security=tls&sni=100gramm.pro&alpn=http%2F1.1&type=ws&host=100gramm.pro&path=%2Fservice%2Ftelemetry%2F44fc835751aa%2F&fp=firefox#Sword-saint69
-vless://90157e25-cee1-4217-921e-91f300bc1a24@novonl.subv.ru:443?type=tcp&security=reality&sni=golos.mail.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#Sword-saint69
+vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=firefox#Sword-saint69
+vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=qq#Sword-saint69

@@ -1,1 +1,1 @@
-vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.245.94:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=rohamhaaaavista.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#Sword-saint69
+vless://9bf5713f-3d65-b629-d5a5-11019ea57433@time.is:443?path=/v2&security=tls&encryption=none&insecure=0&host=a.v2boxerfree3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.v2boxerfree3.workers.dev#Sword-saint69
