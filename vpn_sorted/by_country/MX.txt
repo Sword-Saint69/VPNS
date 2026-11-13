@@ -1,9 +1,10 @@
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#Sword-saint69
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#Sword-saint69
+trojan://5t6i121em5lkmsmk@149.104.87.125:15083?security=tls&sni=mx001.zestapp778.com&fp=firefox#Sword-saint69
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&sni=mx001.zestapp778.com&type=tcp#Sword-saint69
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=none&type=tcp&sni=mx001.zestapp778.com&fp=chrome#Sword-saint69
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp#Sword-saint69
-trojan://humanity@131.196.254.151:443?sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#Sword-saint69
-vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&path=/&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&security=reality&sni=www.apple.com&type=tcp#Sword-saint69
-vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&encryption=none&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#Sword-saint69
 vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&encryption=none#Sword-saint69
+vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#Sword-saint69
+vmess://eyJhZGQiOiIxMzEuMTk2LjI1My4xNDAiLCJhaWQiOjAsImhvc3QiOiIxMzEuMTk2LjI1My4xNDAiLCJpZCI6ImQ1NDIyNmY5LTQ0MjctNDQ2Ni05NTdmLTE3M2IwYTViMWNiYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zc2hvY2VhbiIsInBvcnQiOjgwLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9#Sword-saint69
+vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#Sword-saint69
