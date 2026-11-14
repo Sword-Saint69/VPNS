@@ -1,1 +1,2 @@
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@194.135.119.82:2053?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#Sword-saint69
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@194.135.119.82:2053?security=tls&sni=fs.qicai99.com&type=ws&path=%2Ffp%3Dchrome&host=fs.qicai99.com#Sword-saint69
