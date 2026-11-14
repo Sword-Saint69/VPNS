@@ -1,8 +1,10 @@
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#Sword-saint69
 ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#Sword-saint69
+trojan://5t6i121em5lkmsmk@149.104.87.125:15083?security=tls&sni=mx001.zestapp778.com&fp=chrome#Sword-saint69
 trojan://5t6i121em5lkmsmk@149.104.87.125:15083?security=tls&sni=mx001.zestapp778.com&fp=firefox#Sword-saint69
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&sni=mx001.zestapp778.com&type=tcp#Sword-saint69
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=none&type=tcp&sni=mx001.zestapp778.com&fp=chrome#Sword-saint69
 trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp#Sword-saint69
+vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&security=tls#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjEzMS4xOTYuMjUyLjU5IiwicG9ydCI6MjA1MjEsImlkIjoiNTgwOTkxMWEtYTE2ZS00M2QzLTkwYjAtMmM5NGNmYzIwMzVlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiJNWCBcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmQgfCBAUmF5ZGlrYWx4IHwgNjNDNzA5In0=#Sword-saint69
 vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#Sword-saint69

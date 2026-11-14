@@ -1,3 +1,4 @@
-vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=android#Sword-saint69
-vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=ios#Sword-saint69
-vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@silk.filnex.baby:443?encryption=none&type=ws&security=tls&sni=silk.filnex.baby&alpn=http%2F1.1&path=%2Fapi%2Fde5%2Fstream&host=silk.filnex.baby&fp=random#Sword-saint69
+vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=edge#Sword-saint69
+vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=firefox#Sword-saint69
+vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?encryption=none&extra=null&host=kfx7q.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=ios#Sword-saint69
+vless://5be144a2-75d3-476a-badb-fa57336617e5@185.178.208.140:443?encryption=none&extra=null&host=kfx7q.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=kfx7q.bakarova-top.ru&type=xhttp&fp=firefox#Sword-saint69
