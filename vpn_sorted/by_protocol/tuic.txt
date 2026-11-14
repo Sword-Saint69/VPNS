@@ -1,1 +1,1 @@
-tuic://e511bd2b-d8ef-4439-bd3b-c78f739dcbbb:e511bd2b-d8ef-4439-bd3b-c78f739dcbbb@51.81.223.166:10443?allowInsecure=1&alpn=h3&congestion_control=bbr&udp_relay_mode=native#Sword-saint69
+tuic://e511bd2b-d8ef-4439-bd3b-c78f739dcbbb:e511bd2b-d8ef-4439-bd3b-c78f739dcbbb@51.81.223.166:10443?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allowInsecure=1#Sword-saint69
