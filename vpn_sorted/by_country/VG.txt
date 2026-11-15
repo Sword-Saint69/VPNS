@@ -1,1 +1,1 @@
-vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?encryption=none&security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#Sword-saint69
+vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?path=/pulse&security=tls&encryption=none&insecure=0&host=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=parsa-panel-u48we.wotic15356.workers.dev#Sword-saint69

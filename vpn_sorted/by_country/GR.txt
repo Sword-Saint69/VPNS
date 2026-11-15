@@ -1,6 +1,5 @@
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&sid=94acb54627612d43&headertype=none#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=/#Sword-saint69
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?path=/fp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chromesecurity=tls#Sword-saint69

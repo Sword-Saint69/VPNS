@@ -1,4 +1,3 @@
 vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.24:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=uk-room07.filesnap.tech&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751&flow=xtls-rprx-vision#Sword-saint69
 vless://052d73c9-1735-4008-b58c-e3a085dc2a37@89.125.175.55:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&flow=xtls-rprx-vision#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@194.135.119.82:2053?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#Sword-saint69
-vless://b0b355cb-a7f4-48ca-b613-b263ccaf87ee@89.125.175.54:8443?flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=raw&encryption=none#Sword-saint69
