@@ -1,3 +1,4 @@
+hy2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443#Sword-saint69
 hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@130.49.163.188:443?sni=s5.libertyrunet.store#Sword-saint69
 hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443?insecure=1&security=tls&sni=s5.libertyrunet.store#Sword-saint69
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&sni=rs.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox#Sword-saint69

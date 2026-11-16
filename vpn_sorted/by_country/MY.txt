@@ -1,5 +1,7 @@
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@47.250.212.59:2053#Sword-saint69
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#Sword-saint69
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xE5R41I9u0Ro2Ru4TUDVqA0a1GRyS5K6zh1DJcJLEUw&security=reality&sid=4af284210d&sni=my1.gofizz.in&type=tcp#Sword-saint69
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=my1.gofizz.in&pbk=xE5R41I9u0Ro2Ru4TUDVqA0a1GRyS5K6zh1DJcJLEUw&sid=4af284210d&fp=edge&spx=/b4fcc6d25bda84e#Sword-saint69
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform128.golnamakcert.top:80?encryption=none&security=none&type=ws&path=%2Fplatform128&host=platform128.halalkhor.info#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjE5Mi4yMjguMTQ1LjExOCIsInBvcnQiOiIxMDA4NiIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0IjoiODYxMyIsImlkIjoiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9#Sword-saint69

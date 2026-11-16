@@ -1,5 +1,6 @@
 hysteria2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.126.237.178:443?insecure=1#Sword-saint69
 hysteria2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.126.237.178:443?insecure=1&sni=185.126.237.178#Sword-saint69
+hysteria2://e45c1654-9184-40c7-b68b-2929ce2a0a89@86.107.179.245:443?sni=cruises-cdn.travel-blogmir.blog#Sword-saint69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=none&type=tcp&sni=bu2.freeguard.org&allowInsecure=1#Sword-saint69
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@38.180.35.145:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bu2.freeguard.org#Sword-saint69

@@ -1,2 +1,5 @@
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=/ccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=chrome&type=xhttp&allowInsecure=0&sni=sorrel-gate.cdn.cachefleet.com#Sword-saint69
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=/ccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=chrome&type=xhttp&allowInsecure=0&sni=tansy-wharf.cdn.cachefleet.com#Sword-saint69
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&type=grpc&security=reality&sni=emberworks.cloud&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&fp=firefox#Sword-saint69
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@37.9.4.62:443?encryption=none&type=grpc&security=reality&sni=360.yandex.ru&pbk=vP4XeQ-z8LYtkSz1SCAxRMAEPreaHspoXm2nt0okQVw&sid=c7674e&fp=firefox#Sword-saint69
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@87.228.101.43:443?encryption=none&type=grpc&security=reality&sni=360.yandex.ru&pbk=n8hYILIctbUJNJqFXLxQY2Fx2f9bzfCMRWAgETc6GGY&sid=009818&fp=firefox#Sword-saint69

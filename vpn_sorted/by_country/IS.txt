@@ -1,1 +1,1 @@
-vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?sni=orbylume.my.to&type=ws&host=orbylume.my.to&path=/tvpn-tor/isfp=chrome&security=tls#Sword-saint69
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@89.127.232.228:443?security=tls&sni=v2n4.11676767.xyz&fp=chrome&type=ws&path=%2Fresource%2Ftopics&host=v2n4.11676767.xyz#Sword-saint69
