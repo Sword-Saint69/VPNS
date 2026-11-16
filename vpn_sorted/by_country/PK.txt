@@ -1,1 +1,1 @@
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20054?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#Sword-saint69
+vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@103.175.79.6:8443?encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&security=reality&serviceName=TunService&sni=download.autodesk.com&type=grpc&fp=edge#Sword-saint69
