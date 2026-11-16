@@ -1,12 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.211:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.explorecreativejobsandenhanceyourcareerportfolio.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.44:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#Sword-saint69
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@5.178.85.81:8443?encryption=none&type=grpc&security=reality&sni=gazeta-business.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08&fp=firefox&serviceName=grpc#Sword-saint69
-vless://0ed9418b-e687-4c2d-8869-7e368c44887e@selec.homelab-cdn.cloud:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=selec.homelab-cdn.cloud&fp=firefox#Sword-saint69
-vless://533b20de-178b-4221-9979-f1e815ca8741@87.242.94.239:443?security=tls&sni=clipdock.pro&alpn=http%2F1.1&type=ws&host=87.242.94.239&path=%2Fcatalog%2Ffeed%2FH9eui7WsW3xS&fp=firefox#Sword-saint69
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&type=grpc&security=reality&sni=flintstack.dev&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&fp=firefox#Sword-saint69
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&type=grpc&security=reality&sni=emberworks.cloud&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&sid=ea322b8b5b015812&fp=firefox#Sword-saint69
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@87.228.101.43:443?encryption=none&type=grpc&security=reality&sni=360.yandex.ru&pbk=n8hYILIctbUJNJqFXLxQY2Fx2f9bzfCMRWAgETc6GGY&sid=009818&fp=firefox#Sword-saint69
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#Sword-saint69
-vless://c0c949fc-2ed6-4597-b680-a1a3276ebf87@188.225.24.192:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=portal.bokovskay.app#Sword-saint69
-vless://c0c949fc-2ed6-4597-b680-a1a3276ebf87@188.225.24.62:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=img.bokovskay.app#Sword-saint69
 vmess://eyJhZGQiOiIxNzIuNjcuMTU2LjEyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmdwdGNsb3VkYWkuY29tIiwiaWQiOiJlNzBhNWI3MC1mNjNjLTQ0NTAtYWY4Yi05NDk5MGNkZjgwYzAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJTd29yZC1zYWludDY5Iiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5ncHRjbG91ZGFpLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9#Sword-saint69

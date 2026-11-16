@@ -21,11 +21,13 @@ trojan://q6UYkw9nUn6MYZz8Sp@au-1.tr202604.com:443?type=tcp&security=tls&allowIns
 trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#Sword-saint69
 trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&sni=au-2.tr202604.com&allowInsecure=1#Sword-saint69
 trojan://q6UYkw9nUn6MYZz8Sp@au-3.tr202604.com:443?type=tcp#Sword-saint69
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@13.214.142.147:54528?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp#Sword-saint69
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@176.97.68.100:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=ios&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&sid=54cca3c1c1c7#Sword-saint69
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&path=/&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp#Sword-saint69
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#Sword-saint69
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#Sword-saint69
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@v1au.mateflora.com:443?sni=www.apple.com&flow=xtls-rprx-vision&fp=ios&security=tls#Sword-saint69
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#Sword-saint69
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@195.114.14.91:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=au1.gofizz.in&pbk=CcxdRFcNF4OLIFqS999iAHZSa6dsFB6wuhyKlBr45DI&sid=7d9e4e85e6f9&fp=firefox&spx=%2Fb4fcc6d25bda84e#Sword-saint69
 vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#Sword-saint69
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#Sword-saint69

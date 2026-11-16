@@ -47,6 +47,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.127.184.104:19999#Sword-saint69
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTg2LjE5MC4yMTUuMjUxOjE5OTk5#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?#Sword-saint69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=none&type=tcp&sni=api.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.yourultimateprofessionalcareerhub.com#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=none&type=tcp&sni=www.yourultimateprofessionalcareerhub.com#Sword-saint69
@@ -91,7 +92,6 @@ vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@132.243.67.239:25035?encryption=non
 vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@138.124.244.105:443?type=tcp&flow=xtls-rprx-vision&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se1.h1clayd.click&encryption=none#Sword-saint69
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@91.214.190.127:443?encryption=none&flow=xtls-rprx-vision&pbk=3fcmILwQG2sbwo58XW9Z1lziNQXmAFwUglFuXQFePRI&security=reality&sid=95da6299f1&sni=ch1.gofizzin.com&spx=%2Fb4fcc6d25bda84e&type=tcp&fp=ios#Sword-saint69
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@91.214.190.127:443?flow=xtls-rprx-vision&headerType=none&host=ch1.gofizzin.com&path=%2F&pbk=3fcmILwQG2sbwo58XW9Z1lziNQXmAFwUglFuXQFePRI&security=reality&sid=95da6299f1&sni=ch1.gofizzin.com&type=tcp&fp=edge#Sword-saint69
-vless://8c0676ea-ac9f-4de5-9c6f-b0de31e38704@83.141.70.167:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rS6r3PZQHZp31tnOmJAuCme4xJgsak_JsZ5hTPwpuiY&security=reality&sid=8b8dd8a1c0c468d3&sni=ch.primarymaster.online&type=tcp#Sword-saint69
 vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?sni=perevodchiki.su&flow=xtls-rprx-vision&fp=firefox&security=tls#Sword-saint69
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?&security=tls&fp=chrome&sni=portal.mavexa.ir&type=tcp&headerType=none&path=%2F#Sword-saint69
 vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=portal.mavexa.ir#Sword-saint69
@@ -106,5 +106,4 @@ vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=random&host=w
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?fp=random&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#Sword-saint69
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?sni=www.apple.com&fp=firefox&security=tls#Sword-saint69
 vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?mode=auto&path=/&security=reality&encryption=none&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&fp=chrome&type=xhttp&sni=yandex.ru&sid=77#Sword-saint69
-vless://dac0e736-5c69-4b7c-8b1d-27cbbc3bd948@1c.hlclub.tech:8446?type=grpc&security=reality&fp=chrome&pbk=XxWn04baea-nyjxLud3mjo15Xz1DNwlDOOken4qHNVA&sid=555ac69b22424282&sni=1c.hlclub.tech&serviceName=grpc-tunnel&spx=/6ba4a0d08820a67a#Sword-saint69
 vmess://eyJhZGQiOiIzNy4xNDMuMTMxLjIyOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGFhYzJiZS00ZDNjLTRmYTMtOWFmYi04OWI2YzdlMTQ1OTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#Sword-saint69
