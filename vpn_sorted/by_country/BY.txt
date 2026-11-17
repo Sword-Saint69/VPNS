@@ -26,3 +26,4 @@ vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?path=%2Fvless
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=%2Fvless&host=178.172.227.228&packetEncoding=xudp#Sword-saint69
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=/vless&host=178.172.227.228&packetEncoding=xudp#Sword-saint69
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?type=ws&host=178.172.227.228&path=/vless#Sword-saint69
+vless://df97ce68-477f-4484-94c7-79eccab7319d@144.31.129.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pVnL-fHPTAgysKc9Qz4PcQLwjvJti0G7zGxU8Lj3pVE&security=reality&sid=9d5a73191957bf5b&sni=bel1.angelsleep9.com&type=tcp#Sword-saint69
