@@ -1,2 +1,1 @@
-vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?security=reality&encryption=none&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node-slo04.rkitman.ru&sid=e204defc87a8949e&allowInsecure=0#Sword-saint69
-vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&security=reality&sid=e013fa99a81badcc&sni=node-slo05.rkitman.ru&type=tcp#Sword-saint69
+vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.107:443?security=reality&sni=node-slo02.rkitman.ru&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd#Sword-saint69
