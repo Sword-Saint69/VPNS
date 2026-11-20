@@ -1,5 +1,3 @@
-vless://12910384-1ef8-40a3-818a-57277063ea66@13.143.183.129:8443?encryption=none&security=tls&type=grpc&serviceName=vlgrpc&mode=gun&sni=kk-58418b.testkknegr.online&fp=chrome#Sword-saint69
-vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&security=tls#Sword-saint69
 vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=udemy.com&fp=ios&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&sid=e90360ec7cc61b20&type=tcp&path=/#Sword-saint69
 vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?sni=udemy.com&flow=xtls-rprx-vision&fp=ios&security=tls#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjE5NS44NS4yMy4yMjUiLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==#Sword-saint69

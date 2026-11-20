@@ -3,3 +3,4 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=adva
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&headerType=none#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp&headerType=none&path=/#Sword-saint69
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp#Sword-saint69
+vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6IjE3MC4yMzkuODYuMTc2IiwicG9ydCI6IjQwNzA4IiwiaWQiOiI1MzAwNWFjOC1lZWQxLTRlMzItODE4My03MTUyZTA5OTg3N2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==#Sword-saint69

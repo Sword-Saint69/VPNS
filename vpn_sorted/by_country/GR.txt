@@ -1,2 +1,2 @@
-vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&type=tcp&fp=chrome&headerType=none&encryption=none&sid=94acb54627612d43&sni=www.cloudflare.com&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&flow=xtls-rprx-vision#Sword-saint69
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#Sword-saint69
+vless://9ccb6ef2-0d30-45e8-9217-906333dc70cd@82.47.62.120:443?security=reality&encryption=none&pbk=Bd_6xrNfRWgyAuB0Sb6nRIEXwLWYB926HILP94LoGgw&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gr-skg.node.globalverdantcore.com&sid=a497e7984140f0c0#Sword-saint69
