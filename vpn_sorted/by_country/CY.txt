@@ -1,2 +1,1 @@
-vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=/media/e1c76c&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#Sword-saint69
-vmess://eyJhZGQiOiI0NS4xMi4xNDQuNjgiLCJhaWQiOjY0LCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjg5ODQ5NDg3MTkwIiwicG9ydCI6NDQzLCJwcyI6IlN3b3JkLXNhaW50NjkiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9#Sword-saint69
+vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#Sword-saint69
