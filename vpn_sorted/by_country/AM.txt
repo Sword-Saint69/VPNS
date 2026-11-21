@@ -1,1 +1,1 @@
-vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@153.52.140.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl3.fox-lisa.ru&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&sid=027af64166562b09&fp=firefox&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#Sword-saint69
+vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?flow=xtls-rprx-vision&type=raw&security=reality&sni=google.com&pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&sid=1b2a3f&fp=firefox#Sword-saint69
