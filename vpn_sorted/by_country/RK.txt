@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M@134.195.198.163:443#Sword-saint69
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#Sword-saint69
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&sni=kuruish.org&type=tcp#Sword-saint69
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#Sword-saint69
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#Sword-saint69
