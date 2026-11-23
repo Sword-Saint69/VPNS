@@ -1,1 +1,1 @@
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443/?type=ws&encryption=none&flow=&host=46.243.205.192&path=/catalog/feed/H9eui7WsW3xS&security=tls&sni=46.243.205.192&fp=chrome#Sword-saint69
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Sword-saint69

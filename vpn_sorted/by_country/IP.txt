@@ -1,6 +1,9 @@
-vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=chrome#Sword-saint69
-vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari#Sword-saint69
+vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&fp=chrome&sni=rbzummkhxtmdipkpij.fcloudservices.site#Sword-saint69
+vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&encryption=none&type=tcp&fp=android#Sword-saint69
+vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=ios#Sword-saint69
 vless://43b2f457-35fe-0001-b072-bd45a66d105d@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=android#Sword-saint69
-vless://6b58e234-9907-0001-9e32-01bc90599182@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=android#Sword-saint69
-vless://d0cd1ad9-ee11-0001-8c96-ff9981022fcd@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari#Sword-saint69
+vless://43b2f457-35fe-0001-b072-bd45a66d105d@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=ios#Sword-saint69
+vless://6b58e234-9907-0001-9e32-01bc90599182@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=qq#Sword-saint69
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@195.209.223.0:443?encryption=none&flow=xtls-rprx-vision&pbk=KYCw7cXjogBXLwakD95fS0ez_Ohp841nJv0w0ntu_FU&security=reality&sid=8b360b27c8ae3791&sni=ruhsds735.thebestqas.am&type=tcp#Sword-saint69
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@195.209.223.0:443?encryption=none&flow=xtls-rprx-vision&pbk=KYCw7cXjogBXLwakD95fS0ez_Ohp841nJv0w0ntu_FU&security=reality&sid=8b360b27c8ae3791&sni=ruhsds735.thebestqas.am&type=tcp&fp=chrome#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6ImFycmFuZ2VkLXNhbXVlbC1jcmFkbGUtaGF5ZXMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIyYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYXJyYW5nZWQtc2FtdWVsLWNyYWRsZS1oYXllcy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwidGxzIjoidGxzIiwic25pIjoiYXJyYW5nZWQtc2FtdWVsLWNyYWRsZS1oYXllcy50cnljbG91ZGZsYXJlLmNvbSIsImFscG4iOiIiLCJmcCI6IiJ9#Sword-saint69
