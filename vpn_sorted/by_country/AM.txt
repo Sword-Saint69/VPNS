@@ -1,2 +1,1 @@
-vless://c5470a56-1b9b-451c-b075-02c82ee4aa6c@03e488t.es12.h1clayd.shop:443?&security=reality&flow=xtls-rprx-vision&pbk=F-QRCTOgAul242ISSobCpwO8G6JGN0qeIdJdv60HIRo&sid=bd35558b17a4930b&fp=chrome&sni=03e488t.es12.h1clayd.shop&type=tcp&headerType=none&host=03e488t.es12.h1clayd.shop&path=%2F#Sword-saint69
-vless://c5470a56-1b9b-451c-b075-02c82ee4aa6c@03e488t.es12.h1clayd.shop:443?flow=xtls-rprx-vision&pbk=F-QRCTOgAul242ISSobCpwO8G6JGN0qeIdJdv60HIRo&security=reality&sid=bd35558b17a4930b&sni=03e488t.es12.h1clayd.shop&type=tcp#Sword-saint69
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=q88k7v7gi0pg.img-assets.world#Sword-saint69
