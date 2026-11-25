@@ -1,1 +1,2 @@
 vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=q88k7v7gi0pg.img-assets.world#Sword-saint69
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@91.195.255.172:443?flow=xtls-rprx-vision&security=reality&sni=amb.899themes.pro&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09#Sword-saint69

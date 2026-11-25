@@ -1,2 +1,1 @@
-vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.103:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#Sword-saint69
-vless://b98bf712-7cbf-4d0a-8b3d-4b216066f024@93.190.9.167:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#Sword-saint69
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@206.53.48.16:443?security=reality&sni=gea.899themes.pro&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&type=grpc&serviceName=neurex&mode=gun#Sword-saint69
