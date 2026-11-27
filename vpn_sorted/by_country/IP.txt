@@ -1,6 +1,1 @@
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=android#Sword-saint69
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=edge#Sword-saint69
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=firefox#Sword-saint69
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=qq#Sword-saint69
-trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=safari#Sword-saint69
 vmess://eyJ2IjoiMiIsInBzIjoiU3dvcmQtc2FpbnQ2OSIsImFkZCI6ImFycmFuZ2VkLXNhbXVlbC1jcmFkbGUtaGF5ZXMudHJ5Y2xvdWRmbGFyZS5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiIyYTRkMjRiZi0zNjdhLTQ5NTEtYmZlNi01MGM3YTBiZGI1ZWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYXJyYW5nZWQtc2FtdWVsLWNyYWRsZS1oYXllcy50cnljbG91ZGZsYXJlLmNvbSIsInBhdGgiOiIvMmE0ZDI0YmYtMzY3YS00OTUxLWJmZTYtNTBjN2EwYmRiNWVhLXZtIiwidGxzIjoidGxzIiwic25pIjoiYXJyYW5nZWQtc2FtdWVsLWNyYWRsZS1oYXllcy50cnljbG91ZGZsYXJlLmNvbSIsImFscG4iOiIiLCJmcCI6IiJ9#Sword-saint69
